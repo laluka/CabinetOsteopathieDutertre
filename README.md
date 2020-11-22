@@ -1,8 +1,14 @@
+# Site location
+
+https://thelaluka.github.io/CabinetOsteopathieDutertre/
+
+
 # Test locally
 
 ```bash
 hugo serve -D -b http://localhost/
 ```
+
 
 # Publish
 
