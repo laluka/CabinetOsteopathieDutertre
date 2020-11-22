@@ -40,7 +40,7 @@ publishDir = "docs"
   weight = 1
 
   [[menu.main]]
-  name = "La SmartBoard c'est quoi ?"
+  name = "La SmartBoard"
   URL = "products"  # TODO
   weight = 2
 
