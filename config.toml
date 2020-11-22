@@ -33,25 +33,31 @@ publishDir = "docs"
 ############################## navigation ###############################
 [menu]
 
+
   [[menu.main]]
-  name = "Products"
-  URL = "products"
+  name = "Accueil"
+  URL = "products"  # TODO
   weight = 1
 
   [[menu.main]]
-  name = "Blog"
-  URL = "blog"
+  name = "Ostéopathie-tarifs"
+  URL = "blog"  # TODO
   weight = 2
 
   [[menu.main]]
-  name = "FAQ"
-  URL = "faq"
+  name = "La SmartBoard c'est quoi ?"
+  URL = "faq" # TODO
   weight = 3
 
   [[menu.main]]
   name = "Contact"
-  URL = "contact"
+  URL = "contact" # TODO
   weight = 4
+
+  [[menu.main]]
+  name = "Liens utiles"
+  URL = "contact" # TODO
+  weight = 5
 
   ############# footer menu #############
   [[menu.footer]]
