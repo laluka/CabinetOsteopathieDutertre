@@ -3,103 +3,96 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://thelaluka.github.io/CabinetOsteopathieDutertre/blog/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://examplesite.com/blog/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thelaluka.github.io/CabinetOsteopathieDutertre/categories/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://examplesite.com/contact/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thelaluka.github.io/CabinetOsteopathieDutertre/tags/golang/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://examplesite.com/faq/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thelaluka.github.io/CabinetOsteopathieDutertre/tags/hugo/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://examplesite.com/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thelaluka.github.io/CabinetOsteopathieDutertre/blog/2015/10/02/linked-post/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://examplesite.com/blog/post-2/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thelaluka.github.io/CabinetOsteopathieDutertre/tags/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://examplesite.com/blog/post-1/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thelaluka.github.io/CabinetOsteopathieDutertre/categories/programming/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://examplesite.com/products/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thelaluka.github.io/CabinetOsteopathieDutertre/tags/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://examplesite.com/products/taba-cream.1/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thelaluka.github.io/CabinetOsteopathieDutertre/tags/theme/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://examplesite.com/products/taba-cream.2/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thelaluka.github.io/CabinetOsteopathieDutertre/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+    <loc>https://examplesite.com/products/taba-cream/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thelaluka.github.io/CabinetOsteopathieDutertre/tags/go/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>https://examplesite.com/products/taba-facewash.1/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thelaluka.github.io/CabinetOsteopathieDutertre/blog/2015/09/17/go-is-for-lovers/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+    <loc>https://examplesite.com/products/taba-facewash.2/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thelaluka.github.io/CabinetOsteopathieDutertre/blog/2015/08/03/hugo-is-for-lovers/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <loc>https://examplesite.com/products/taba-facewash/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thelaluka.github.io/CabinetOsteopathieDutertre/categories/pseudo/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+    <loc>https://examplesite.com/products/taba-shampoo.1/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thelaluka.github.io/CabinetOsteopathieDutertre/blog/2015/06/24/creating-a-new-theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>https://examplesite.com/products/taba-shampoo.2/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thelaluka.github.io/CabinetOsteopathieDutertre/categories/starting/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+    <loc>https://examplesite.com/products/taba-shampoo/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thelaluka.github.io/CabinetOsteopathieDutertre/contact/</loc>
+    <loc>https://examplesite.com/terms-conditions/</loc>
+    <lastmod>2019-10-17T11:22:16+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thelaluka.github.io/CabinetOsteopathieDutertre/faq/</loc>
+    <loc>https://examplesite.com/categories/</loc>
   </url>
   
   <url>
-    <loc>https://thelaluka.github.io/CabinetOsteopathieDutertre/tags/ipsum/</loc>
-  </url>
-  
-  <url>
-    <loc>https://thelaluka.github.io/CabinetOsteopathieDutertre/categories/lorem/</loc>
-  </url>
-  
-  <url>
-    <loc>https://thelaluka.github.io/CabinetOsteopathieDutertre/blog/1/01/01/migrate-from-jekyll/</loc>
+    <loc>https://examplesite.com/tags/</loc>
   </url>
   
 </urlset>
