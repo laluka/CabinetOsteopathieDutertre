@@ -13,12 +13,12 @@
   
   
   
-  <meta name="keywords" content="devows, hugo, go">
+  <meta name="keywords" content="devows, hugo, go, FAQ">
   
   
   <meta name="description" content="Site template made by devcows using hugo">
 
-  <meta name="generator" content="Hugo 0.68.3" />
+  <meta name="generator" content="Hugo 0.78.2" />
 
   
   <link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800' rel='stylesheet' type='text/css'>
@@ -414,10 +414,10 @@ notoc: true
 <p>In your top-level configuration file (eg, <code>config.yaml</code>) you can define site
 parameters, which are values which will be available to you in chrome.</p>
 <p>For instance, you might declare:</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#66d9ef">params</span>:
-  <span style="color:#66d9ef">CopyrightHTML</span>: <span style="color:#e6db74">&#34;Copyright &amp;#xA9; 2013 John Doe. All Rights Reserved.&#34;</span>
-  <span style="color:#66d9ef">TwitterUser</span>: <span style="color:#e6db74">&#34;spf13&#34;</span>
-  <span style="color:#66d9ef">SidebarRecentLimit</span>: <span style="color:#ae81ff">5</span>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">params</span>:
+  <span style="color:#f92672">CopyrightHTML</span>: <span style="color:#e6db74">&#34;Copyright &amp;#xA9; 2013 John Doe. All Rights Reserved.&#34;</span>
+  <span style="color:#f92672">TwitterUser</span>: <span style="color:#e6db74">&#34;spf13&#34;</span>
+  <span style="color:#f92672">SidebarRecentLimit</span>: <span style="color:#ae81ff">5</span>
 </code></pre></div><p>Within a footer layout, you might then declare a <code>&lt;footer&gt;</code> which is only
 provided if the <code>CopyrightHTML</code> parameter is provided, and if it is given,
 you would declare it to be HTML-safe, so that the HTML entity is not escaped

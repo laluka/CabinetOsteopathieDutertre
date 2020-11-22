@@ -6,20 +6,7 @@
     <description>Recent content in Tags on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate>
-    
-	<atom:link href="https://thelaluka.github.io/CabinetOsteopathieDutertre/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>go</title>
-      <link>https://thelaluka.github.io/CabinetOsteopathieDutertre/tags/go/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>https://thelaluka.github.io/CabinetOsteopathieDutertre/tags/go/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate><atom:link href="https://thelaluka.github.io/CabinetOsteopathieDutertre/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>golang</title>
       <link>https://thelaluka.github.io/CabinetOsteopathieDutertre/tags/golang/</link>
@@ -53,6 +40,15 @@
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
       <guid>https://thelaluka.github.io/CabinetOsteopathieDutertre/tags/theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://thelaluka.github.io/CabinetOsteopathieDutertre/tags/go/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      
+      <guid>https://thelaluka.github.io/CabinetOsteopathieDutertre/tags/go/</guid>
       <description></description>
     </item>
     

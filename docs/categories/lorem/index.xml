@@ -5,11 +5,7 @@
     <link>https://thelaluka.github.io/CabinetOsteopathieDutertre/categories/lorem/</link>
     <description>Recent content in lorem on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://thelaluka.github.io/CabinetOsteopathieDutertre/categories/lorem/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://thelaluka.github.io/CabinetOsteopathieDutertre/categories/lorem/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Migrate from Jekyll</title>
       <link>https://thelaluka.github.io/CabinetOsteopathieDutertre/blog/1/01/01/migrate-from-jekyll/</link>
