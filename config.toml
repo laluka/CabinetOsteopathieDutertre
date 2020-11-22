@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://thelaluka.github.io/CabinetOsteopathieDutertre/"
 languageCode = "en-us"
-title = "Hargo | Hugo Ecommerce Site"
+title = "Osteopathie du sport | Aurélie Dutertre"
 theme = "hargo-hugo-ecommerce-theme"
 summaryLength = "20"
 paginate = 10
