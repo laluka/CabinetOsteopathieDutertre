@@ -1,2 +1,0 @@
-# CabinetOsteopathieDutertre
-CabinetOsteopathieDutertre
