@@ -1,12 +1,11 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://thelaluka.github.io/CabinetOsteopathieDutertre/"
 languageCode = "en-us"
 title = "Hargo | Hugo Ecommerce Site"
 theme = "hargo-hugo-ecommerce-theme"
 summaryLength = "20"
 paginate = 10
 disqusShortname = ""
-baseurl = "https://thelaluka.github.io/CabinetOsteopathieDutertre/"
 publishDir = "docs"
 
 ############################# Plugins ##############################
