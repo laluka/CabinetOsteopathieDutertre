@@ -35,17 +35,17 @@ publishDir = "docs"
 
 
   [[menu.main]]
-  name = "Accueil"
-  URL = "products"  # TODO
+  name = "Ostéopathie-tarifs"
+  URL = "blog"  # TODO
   weight = 1
 
   [[menu.main]]
-  name = "Ostéopathie-tarifs"
-  URL = "blog"  # TODO
+  name = "La SmartBoard c'est quoi ?"
+  URL = "products"  # TODO
   weight = 2
 
   [[menu.main]]
-  name = "La SmartBoard c'est quoi ?"
+  name = "Liens utiles"
   URL = "faq" # TODO
   weight = 3
 
@@ -53,11 +53,6 @@ publishDir = "docs"
   name = "Contact"
   URL = "contact" # TODO
   weight = 4
-
-  [[menu.main]]
-  name = "Liens utiles"
-  URL = "contact" # TODO
-  weight = 5
 
   ############# footer menu #############
   [[menu.footer]]
@@ -89,7 +84,7 @@ publishDir = "docs"
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
-home = "Home"
+home = "Accueil"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
