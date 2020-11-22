@@ -12,11 +12,7 @@
   {{ range site.Params.plugins.css }}
   <link rel="stylesheet" href="{{ .link | absURL }}">
   {{ end }}
-  <link rel="preconnect" href="https://app.snipcart.com">
-  <link rel="preconnect" href="https://cdn.snipcart.com">
-  <link id="snipcart-theme" type="text/css" href="https://cdn.snipcart.com/themes/v3.0.21/default/snipcart.css" rel="stylesheet">
-  <script async src="https://cdn.snipcart.com/themes/v3.0.21/default/snipcart.js"></script>
-
+  
   {{ "<!-- Main Stylesheet -->" | safeHTML }}
   {{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">

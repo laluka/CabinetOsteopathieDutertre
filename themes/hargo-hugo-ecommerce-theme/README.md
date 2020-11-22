@@ -44,7 +44,6 @@ $ git clone git@github.com:themefisher/hargo.git
 - E-commerce Template
 - Contact Page , Faq Page
 - Responsive Ready
-- Snipcart Added
 
 ## Reporting Issues
 
