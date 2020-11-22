@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Universal</title>
+    <link>https://thelaluka.github.io/CabinetOsteopathieDutertre/categories/</link>
+    <description>Recent content in Categories on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://thelaluka.github.io/CabinetOsteopathieDutertre/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>programming</title>
+      <link>https://thelaluka.github.io/CabinetOsteopathieDutertre/categories/programming/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>https://thelaluka.github.io/CabinetOsteopathieDutertre/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pseudo</title>
+      <link>https://thelaluka.github.io/CabinetOsteopathieDutertre/categories/pseudo/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>https://thelaluka.github.io/CabinetOsteopathieDutertre/categories/pseudo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>starting</title>
+      <link>https://thelaluka.github.io/CabinetOsteopathieDutertre/categories/starting/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://thelaluka.github.io/CabinetOsteopathieDutertre/categories/starting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lorem</title>
+      <link>https://thelaluka.github.io/CabinetOsteopathieDutertre/categories/lorem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thelaluka.github.io/CabinetOsteopathieDutertre/categories/lorem/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
