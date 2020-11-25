@@ -33,20 +33,19 @@ publishDir = "docs"
 ############################## navigation ###############################
 [menu]
 
-
   [[menu.main]]
   name = "Ostéopathie-tarifs"
-  URL = "blog"  # TODO
+  URL = "osteopathie-tarifs"  # TODO
   weight = 1
 
   [[menu.main]]
   name = "La SmartBoard"
-  URL = "products"  # TODO
+  URL = "smartboard"  # TODO
   weight = 2
 
   [[menu.main]]
   name = "Liens utiles"
-  URL = "faq" # TODO
+  URL = "liens_utiles" # TODO
   weight = 3
 
   [[menu.main]]
@@ -56,29 +55,24 @@ publishDir = "docs"
 
   ############# footer menu #############
   [[menu.footer]]
-  name = "Products"
-  URL = "products"
+  name = "Accueil"
+  URL = "/"
   weight = 1
 
   [[menu.footer]]
-  name = "Blog"
-  URL = "blog"
+  name = "Ostéopathie-tarifs"
+  URL = "osteopathie-tarifs"
   weight = 2
 
   [[menu.footer]]
-  name = "FAQ"
-  URL = "faq"
+  name = "Liens Utiles"
+  URL = "liens_utiles"
   weight = 3
-
-  [[menu.footer]]
-  name = "Terms & Conditions"
-  URL = "terms-conditions"
-  weight = 4
 
   [[menu.footer]]
   name = "Contact"
   URL = "contact"
-  weight = 5
+  weight = 4
 
 
 #################### default parameters ################################
@@ -96,9 +90,9 @@ mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
-mobile = "0124857985320"
+mobile = "06 27 37 49 38"
 email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+location = "46 rue Alfred de Vigny, 38100 Grenoble"
 # copyright
 copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
 
@@ -117,23 +111,19 @@ copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) 
   # Social Site
   [[params.social]]
   icon = "ti-facebook"
-  link = "#"
+  link = "https://www.facebook.com/Aur%C3%A9lie-Dutertre-770845799602414/"
 
   [[params.social]]
   icon = "ti-twitter-alt"
-  link = "#"
-
-  [[params.social]]
-  icon = "ti-youtube"
-  link = "#"
+  link = "https://twitter.com/intent/tweet?text=Je%20voulais%20partager%20cet%20excellent%20site%20Web%20avec%20vous&url=https://www.cabinet-osteopathie-du-sport-dutertre.fr/copie-de-ost%C3%A9opathie"
 
   [[params.social]]
   icon = "ti-instagram"
-  link = "#"
+  link = "https://www.instagram.com/aurelie.dutertre/?hl=fr"
 
   [[params.social]]
-  icon = "ti-pinterest"
-  link = "#"
+  icon = "ti-instagram"
+  link = "https://wa.me/qr/DQO2MFZ6HGSTI1"
 
   # Contact Form
   [params.contact]
