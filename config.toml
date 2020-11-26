@@ -84,8 +84,8 @@ description = "This is meta description"
 author = "Themefisher"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-mapLatitude = "51.5223477"
-mapLongitude = "-0.1622023"
+mapLatitude = "45.16739614361891"
+mapLongitude = "5.72391508737948"
 mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
@@ -122,7 +122,7 @@ copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) 
   link = "https://www.instagram.com/aurelie.dutertre/?hl=fr"
 
   [[params.social]]
-  icon = "ti-instagram"
+  icon = "ti-linkedin"
   link = "https://wa.me/qr/DQO2MFZ6HGSTI1"
 
   # Contact Form

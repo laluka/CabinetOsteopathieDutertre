@@ -55,8 +55,8 @@ Aurélie Dutertre est agréée, reconnue par l'état et vous permet d'être remb
 ###################### Call to action ########################
 cta:
   enable : true
-  title : "Prendre RDV en ligne"
-  content : "prendre un "
+  title : "Prendre RDV"
+  content : "en ligne"
   image : "images/cta.png"
   overlayImage : "images/cta-overlay.png"
   button:

@@ -3,21 +3,21 @@ contact:
   enable : true
   # office
   office:
-    title : "Central Office"
-    content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
-    # other information comes from "config.toml"
+    title : " #### Nous situer"
+    content : "La cabinet d'ostéopathe d'Aurélie Dutertre se trouve à côté du centre des impôts et de la CPAM de Grenoble, dans l'Isère."
+    
+        # other information comes from "config.toml"
 
   # opennig hour
   opennigHour:
-    title : "Opening Hours"
+    title : "#### Moyen d'accès"
     dayTimeList:
-      - dayTime : "Monday: 9:00 – 19:00"
-      - dayTime : "Tuesday: 9:00 – 19:00"
-      - dayTime : "Wednesday: 9:00 – 19:00"
-      - dayTime : "Thursday: 9:00 – 19:00"
-      - dayTime : "Friday: 9:00 – 19:00"
-      - dayTime : "Saturday: 9:00 – 19:00"
-      - dayTime : "sunday: 9:00 – 19:00"
+      - dayTime : "![accessible](static/images/accessible-24px.svg) Accès facilités aux personnes à mobilité réduite.    
+![Parking](static/images/local_parking-24px.svg) Parking public à 1 minute."
+      - dayTime : "#### Horaires"
+      - dayTime : "Lundi:     07:00 - 20:00"
+      - dayTime : "Mercredi:  07:00 - 20:00"
+      - dayTime : "Vendredi:  07:00 - 20:00"
 
 ####################### google map ########################
 map:
