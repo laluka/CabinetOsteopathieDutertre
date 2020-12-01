@@ -21,6 +21,12 @@ git commit -m "I dit foo in bar"
 git push
 ```
 
+# TODO LALU
+
+- Boutons rdv
+- Couleur Background
+- Taille des images
+
 # Échange avec Aurélie:
 
 ## Docu à demander:
