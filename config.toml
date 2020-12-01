@@ -34,24 +34,29 @@ publishDir = "docs"
 [menu]
 
   [[menu.main]]
-  name = "Ostéopathie-tarifs"
-  URL = "osteopathie-tarifs"  # TODO
+  name = "L'Ostéopathie"
+  URL = "osteopathie_docu"  
   weight = 1
 
   [[menu.main]]
-  name = "La SmartBoard"
-  URL = "smartboard"  # TODO
+  name = "Tarifs"
+  URL = "osteopathie-tarifs"  
   weight = 2
 
   [[menu.main]]
-  name = "Liens utiles"
-  URL = "liens_utiles" # TODO
+  name = "La SmartBoard"
+  URL = "smartboard"  
   weight = 3
 
   [[menu.main]]
-  name = "Contact"
-  URL = "contact" # TODO
+  name = "Liens utiles"
+  URL = "liens_utiles" 
   weight = 4
+
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact" 
+  weight = 5
 
   ############# footer menu #############
   [[menu.footer]]
@@ -60,19 +65,25 @@ publishDir = "docs"
   weight = 1
 
   [[menu.footer]]
+  name = "L'Ostéopathie, c'est quoi ?"
+  URL = "osteopathie_docu"
+  weight = 2
+
+  [[menu.footer]]
   name = "Ostéopathie-tarifs"
   URL = "osteopathie-tarifs"
-  weight = 2
+  weight = 3
 
   [[menu.footer]]
   name = "Liens Utiles"
   URL = "liens_utiles"
-  weight = 3
+  weight = 4
 
   [[menu.footer]]
   name = "Contact"
   URL = "contact"
-  weight = 4
+  weight = 5
+
 
 
 #################### default parameters ################################
