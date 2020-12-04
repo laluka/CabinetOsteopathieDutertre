@@ -85,6 +85,12 @@
     text-transform: capitalize;
     font-size: 18px;
   }
+  
+  @media (max-width: 1200px) and (min-width: 991px) {
+    .nav-link {
+      font-size: 0.85em;
+    }
+  }
 }
 
 .navbar-light .navbar-nav .nav-link {
