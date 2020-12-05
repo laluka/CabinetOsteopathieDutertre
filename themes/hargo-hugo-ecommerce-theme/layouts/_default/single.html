@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<section class="section pt-0">
+<section class="section">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto">
@@ -11,7 +11,6 @@
             <!-- <li class="list-inline-item"><i class="ti-calendar text-primary mr-2"></i> -->
               <!-- {{ .PublishDate.Format "02 Jan, 2006" }}</li> -->
           <!-- </ul> -->
-          <img src="{{ .Params.Image | absURL }}" alt="{{ .Title }}" class="img-fluid w-100 mb-4">
           <div class="content">
             {{.Content}}
           </div>

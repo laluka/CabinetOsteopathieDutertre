@@ -8,6 +8,9 @@ paginate = 10
 disqusShortname = ""
 publishDir = "docs"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 ############################# Plugins ##############################
 [params.plugins]
 
@@ -102,10 +105,10 @@ mapMarker = "images/marker.png"
 googleAnalitycsID = "" # Your ID
 # Contact Information
 mobile = "06 27 37 49 38"
-email = "demo@email.com"
+email = "aurelie.dutertre@yahoo.fr"
 location = "46 rue Alfred de Vigny, 38100 Grenoble"
 # copyright
-copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
 
   # Preloader
   [params.preloader]
@@ -121,20 +124,22 @@ copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) 
 
   # Social Site
   [[params.social]]
-  icon = "ti-facebook"
-  link = "https://www.facebook.com/Aur%C3%A9lie-Dutertre-770845799602414/"
+    icon = "fa-instagram"
+    link = "https://www.instagram.com/aurelie.dutertre/?hl=fr"
 
   [[params.social]]
-  icon = "ti-twitter-alt"
-  link = "https://twitter.com/intent/tweet?text=Je%20voulais%20partager%20cet%20excellent%20site%20Web%20avec%20vous&url=https://www.cabinet-osteopathie-du-sport-dutertre.fr/copie-de-ost%C3%A9opathie"
+    icon = "fa-whatsapp"
+    link = "https://wa.me/qr/DQO2MFZ6HGSTI1"
 
   [[params.social]]
-  icon = "ti-instagram"
-  link = "https://www.instagram.com/aurelie.dutertre/?hl=fr"
+    icon = "fa-facebook"
+    link = "https://www.facebook.com/Aur%C3%A9lie-Dutertre-770845799602414/"
 
   [[params.social]]
-  icon = "ti-linkedin"
-  link = "https://wa.me/qr/DQO2MFZ6HGSTI1"
+    icon = "fa-linkedin"
+    link = "https://www.linkedin.com/in/aurelie-dutertre-10435128/"
+
+  
 
   # Contact Form
   [params.contact]

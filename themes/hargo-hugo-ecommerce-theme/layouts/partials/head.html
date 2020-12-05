@@ -17,7 +17,7 @@
   {{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
   <link rel="stylesheet" href="{{ `custom.css` | absURL }}" media="screen">
-
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" media="screen">
   {{ "<!--Favicon-->" | safeHTML }}
   <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">
   <link rel="icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">

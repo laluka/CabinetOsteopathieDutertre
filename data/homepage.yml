@@ -55,13 +55,12 @@ Aurélie Dutertre est agréée, reconnue par l'état et vous permet d'être remb
 ###################### Call to action ########################
 cta:
   enable : true
-  title : "Prendre RDV"
-  content : "en ligne"
+  title : "Prendre RDV en ligne"
   image : "images/cta.png"
   overlayImage : "images/cta-overlay.png"
   button:
-    label : "RDV"
-    link : "contact"
+    label : "Click-RDV"
+    link : "https://www.clicrdv.com/mme-dutertre-aurelie"
 
 # ######################## raw material #######################
 # material:

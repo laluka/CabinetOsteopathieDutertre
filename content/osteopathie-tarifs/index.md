@@ -40,7 +40,7 @@ Bilan semi-complet prévention blessures @ SmartBoard
 
 ### Moyens de paiement   
 
-Chèque bancaire  
-Espèce  
-Virement   
-N'accepte pas les cartes bancaires
+- Chèque bancaire  
+- Espèce  
+- Virement   
+- N'accepte pas les cartes bancaires
