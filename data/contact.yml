@@ -12,8 +12,8 @@ contact:
   opennigHour:
     title : "#### Moyen d'accès"
     dayTimeList:
-      - dayTime : "![accessible](static/images/accessible-24px.svg) Accès facilités aux personnes à mobilité réduite.    
-![Parking](static/images/local_parking-24px.svg) Parking public à 1 minute."
+      - dayTime : "Accès facilités aux personnes à mobilité réduite."
+      - dayTime : "Parking public à 1 minute."
       - dayTime : "#### Horaires"
       - dayTime : "Lundi:     07:00 - 20:00"
       - dayTime : "Mercredi:  07:00 - 20:00"
