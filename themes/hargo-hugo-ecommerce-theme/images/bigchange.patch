@@ -948,8 +948,8 @@ index b9b1c0e..0000000
 -  <link rel="stylesheet" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/scss/style.min.css" media="screen">
 -
 -  <!--Favicon-->
--  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
--  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
+-  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
+-  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
 -
 -</head>
 -<body>
@@ -963,7 +963,7 @@ index b9b1c0e..0000000
 -  <div class="container">
 -    
 -    <nav class="navbar navbar-expand-lg navbar-light">
--      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
+-      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
 -        <i class="ti-menu"></i>
 -      </button>
@@ -1029,7 +1029,7 @@ index b9b1c0e..0000000
 -      
 -      <div class="col-lg-8 mx-auto mb-5">
 -        <article class="card rounded-0 border-0">
--          <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/blog/post-2.jpg" alt="Human Gut Microbes Could Make Processed Foods Healthier" class="card-img-top rounded-top-0">
+-          <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/blog/post-2.jpg" alt="Human Gut Microbes Could Make Processed Foods Healthier" class="card-img-top rounded-top-0">
 -          <div class="card-body px-0">
 -            <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/blog/post-2/" class="h4 d-block">Human Gut Microbes Could Make Processed Foods Healthier</a>
 -            <ul class="list-inline">
@@ -1045,7 +1045,7 @@ index b9b1c0e..0000000
 -      
 -      <div class="col-lg-8 mx-auto mb-5">
 -        <article class="card rounded-0 border-0">
--          <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/blog/post-1.jpg" alt="Lower Back Pain? Self-Administered Acupressure Could Help" class="card-img-top rounded-top-0">
+-          <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/blog/post-1.jpg" alt="Lower Back Pain? Self-Administered Acupressure Could Help" class="card-img-top rounded-top-0">
 -          <div class="card-body px-0">
 -            <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/blog/post-1/" class="h4 d-block">Lower Back Pain? Self-Administered Acupressure Could Help</a>
 -            <ul class="list-inline">
@@ -1069,7 +1069,7 @@ index b9b1c0e..0000000
 -
 -
 -<section class="py-4 bg-gradient position-relative">
--  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta-overlay.png" class="img-fluid overlay-image" alt="">
+-  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta-overlay.png" class="img-fluid overlay-image" alt="">
 -  <div class="container">
 -    <div class="row">
 -      <div class="col-lg-8 col-md-7">
@@ -1080,7 +1080,7 @@ index b9b1c0e..0000000
 -        
 -      </div>
 -      <div class="col-lg-4 col-md-5 position-relative">
--        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta.png" alt="">
+-        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta.png" alt="">
 -      </div>
 -    </div>
 -  </div>
@@ -1092,7 +1092,7 @@ index b9b1c0e..0000000
 -  <div class="container">
 -    <div class="row border-bottom pb-5 justify-content-between">
 -      <div class="col-12 text-center section-sm">
--        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" class="img-fluid"
+-        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" class="img-fluid"
 -            alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      </div>
 -      <div class="col-md-3 col-sm-6">
@@ -1296,8 +1296,8 @@ index d6fbb64..0000000
 -  <link rel="stylesheet" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/scss/style.min.css" media="screen">
 -
 -  <!--Favicon-->
--  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
--  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
+-  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
+-  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
 -
 -</head>
 -<body>
@@ -1311,7 +1311,7 @@ index d6fbb64..0000000
 -  <div class="container">
 -    
 -    <nav class="navbar navbar-expand-lg navbar-light">
--      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
+-      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
 -        <i class="ti-menu"></i>
 -      </button>
@@ -1365,7 +1365,7 @@ index d6fbb64..0000000
 -            <li class="list-inline-item"><i class="ti-calendar text-primary mr-2"></i>
 -              17 Oct, 2019</li>
 -          </ul>
--          <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/blog/post-1.jpg" alt="Lower Back Pain? Self-Administered Acupressure Could Help" class="img-fluid w-100 mb-4">
+-          <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/blog/post-1.jpg" alt="Lower Back Pain? Self-Administered Acupressure Could Help" class="img-fluid w-100 mb-4">
 -          <div class="content">
 -            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore</p>
 -<p>aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
@@ -1389,7 +1389,7 @@ index d6fbb64..0000000
 -
 -
 -<section class="py-4 bg-gradient position-relative">
--  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta-overlay.png" class="img-fluid overlay-image" alt="">
+-  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta-overlay.png" class="img-fluid overlay-image" alt="">
 -  <div class="container">
 -    <div class="row">
 -      <div class="col-lg-8 col-md-7">
@@ -1400,7 +1400,7 @@ index d6fbb64..0000000
 -        
 -      </div>
 -      <div class="col-lg-4 col-md-5 position-relative">
--        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta.png" alt="">
+-        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta.png" alt="">
 -      </div>
 -    </div>
 -  </div>
@@ -1412,7 +1412,7 @@ index d6fbb64..0000000
 -  <div class="container">
 -    <div class="row border-bottom pb-5 justify-content-between">
 -      <div class="col-12 text-center section-sm">
--        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" class="img-fluid"
+-        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" class="img-fluid"
 -            alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      </div>
 -      <div class="col-md-3 col-sm-6">
@@ -1568,8 +1568,8 @@ index 2a8bc76..0000000
 -  <link rel="stylesheet" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/scss/style.min.css" media="screen">
 -
 -  <!--Favicon-->
--  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
--  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
+-  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
+-  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
 -
 -</head>
 -<body>
@@ -1583,7 +1583,7 @@ index 2a8bc76..0000000
 -  <div class="container">
 -    
 -    <nav class="navbar navbar-expand-lg navbar-light">
--      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
+-      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
 -        <i class="ti-menu"></i>
 -      </button>
@@ -1637,7 +1637,7 @@ index 2a8bc76..0000000
 -            <li class="list-inline-item"><i class="ti-calendar text-primary mr-2"></i>
 -              17 Oct, 2019</li>
 -          </ul>
--          <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/blog/post-2.jpg" alt="Human Gut Microbes Could Make Processed Foods Healthier" class="img-fluid w-100 mb-4">
+-          <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/blog/post-2.jpg" alt="Human Gut Microbes Could Make Processed Foods Healthier" class="img-fluid w-100 mb-4">
 -          <div class="content">
 -            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore</p>
 -<p>aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
@@ -1661,7 +1661,7 @@ index 2a8bc76..0000000
 -
 -
 -<section class="py-4 bg-gradient position-relative">
--  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta-overlay.png" class="img-fluid overlay-image" alt="">
+-  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta-overlay.png" class="img-fluid overlay-image" alt="">
 -  <div class="container">
 -    <div class="row">
 -      <div class="col-lg-8 col-md-7">
@@ -1672,7 +1672,7 @@ index 2a8bc76..0000000
 -        
 -      </div>
 -      <div class="col-lg-4 col-md-5 position-relative">
--        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta.png" alt="">
+-        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta.png" alt="">
 -      </div>
 -    </div>
 -  </div>
@@ -1684,7 +1684,7 @@ index 2a8bc76..0000000
 -  <div class="container">
 -    <div class="row border-bottom pb-5 justify-content-between">
 -      <div class="col-12 text-center section-sm">
--        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" class="img-fluid"
+-        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" class="img-fluid"
 -            alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      </div>
 -      <div class="col-md-3 col-sm-6">
@@ -1840,8 +1840,8 @@ index 1542ddb..0000000
 -  <link rel="stylesheet" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/scss/style.min.css" media="screen">
 -
 -  <!--Favicon-->
--  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
--  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
+-  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
+-  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
 -
 -</head>
 -<body>
@@ -1855,7 +1855,7 @@ index 1542ddb..0000000
 -  <div class="container">
 -    
 -    <nav class="navbar navbar-expand-lg navbar-light">
--      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
+-      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
 -        <i class="ti-menu"></i>
 -      </button>
@@ -1929,7 +1929,7 @@ index 1542ddb..0000000
 -
 -
 -<section class="py-4 bg-gradient position-relative">
--  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta-overlay.png" class="img-fluid overlay-image" alt="">
+-  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta-overlay.png" class="img-fluid overlay-image" alt="">
 -  <div class="container">
 -    <div class="row">
 -      <div class="col-lg-8 col-md-7">
@@ -1940,7 +1940,7 @@ index 1542ddb..0000000
 -        
 -      </div>
 -      <div class="col-lg-4 col-md-5 position-relative">
--        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta.png" alt="">
+-        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta.png" alt="">
 -      </div>
 -    </div>
 -  </div>
@@ -1952,7 +1952,7 @@ index 1542ddb..0000000
 -  <div class="container">
 -    <div class="row border-bottom pb-5 justify-content-between">
 -      <div class="col-12 text-center section-sm">
--        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" class="img-fluid"
+-        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" class="img-fluid"
 -            alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      </div>
 -      <div class="col-md-3 col-sm-6">
@@ -2137,8 +2137,8 @@ index 78672a9..0000000
 -  <link rel="stylesheet" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/scss/style.min.css" media="screen">
 -
 -  <!--Favicon-->
--  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
--  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
+-  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
+-  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
 -
 -</head>
 -<body>
@@ -2152,7 +2152,7 @@ index 78672a9..0000000
 -  <div class="container">
 -    
 -    <nav class="navbar navbar-expand-lg navbar-light">
--      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
+-      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
 -        <i class="ti-menu"></i>
 -      </button>
@@ -2273,7 +2273,7 @@ index 78672a9..0000000
 -  <div class="container">
 -    <div id="map_canvas" data-latitude=" 51.5223477 "
 -      data-longitude=" -0.1622023 "
--      data-marker=" https://thelaluka.github.io/CabinetOsteopathieDutertre/images/marker.png " data-marker-name="Osteopathie du sport | Aurélie Dutertre"></div>
+-      data-marker=" https://thelaluka.github.io/CabinetOsteopathieDutertre../images/marker.png " data-marker-name="Osteopathie du sport | Aurélie Dutertre"></div>
 -  </div>
 -</section>
 -
@@ -2281,7 +2281,7 @@ index 78672a9..0000000
 -
 -
 -<section class="py-4 bg-gradient position-relative">
--  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta-overlay.png" class="img-fluid overlay-image" alt="">
+-  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta-overlay.png" class="img-fluid overlay-image" alt="">
 -  <div class="container">
 -    <div class="row">
 -      <div class="col-lg-8 col-md-7">
@@ -2292,7 +2292,7 @@ index 78672a9..0000000
 -        
 -      </div>
 -      <div class="col-lg-4 col-md-5 position-relative">
--        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta.png" alt="">
+-        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta.png" alt="">
 -      </div>
 -    </div>
 -  </div>
@@ -2304,7 +2304,7 @@ index 78672a9..0000000
 -  <div class="container">
 -    <div class="row border-bottom pb-5 justify-content-between">
 -      <div class="col-12 text-center section-sm">
--        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" class="img-fluid"
+-        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" class="img-fluid"
 -            alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      </div>
 -      <div class="col-md-3 col-sm-6">
@@ -2482,8 +2482,8 @@ index e02c186..0000000
 -  <link rel="stylesheet" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/scss/style.min.css" media="screen">
 -
 -  <!--Favicon-->
--  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
--  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
+-  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
+-  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
 -
 -</head>
 -<body>
@@ -2497,7 +2497,7 @@ index e02c186..0000000
 -  <div class="container">
 -    
 -    <nav class="navbar navbar-expand-lg navbar-light">
--      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
+-      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
 -        <i class="ti-menu"></i>
 -      </button>
@@ -2663,7 +2663,7 @@ index e02c186..0000000
 -
 -
 -<section class="py-4 bg-gradient position-relative">
--  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta-overlay.png" class="img-fluid overlay-image" alt="">
+-  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta-overlay.png" class="img-fluid overlay-image" alt="">
 -  <div class="container">
 -    <div class="row">
 -      <div class="col-lg-8 col-md-7">
@@ -2674,7 +2674,7 @@ index e02c186..0000000
 -        
 -      </div>
 -      <div class="col-lg-4 col-md-5 position-relative">
--        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta.png" alt="">
+-        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta.png" alt="">
 -      </div>
 -    </div>
 -  </div>
@@ -2686,7 +2686,7 @@ index e02c186..0000000
 -  <div class="container">
 -    <div class="row border-bottom pb-5 justify-content-between">
 -      <div class="col-12 text-center section-sm">
--        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" class="img-fluid"
+-        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" class="img-fluid"
 -            alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      </div>
 -      <div class="col-md-3 col-sm-6">
@@ -2833,110 +2833,110 @@ index 6165a49..0000000
 -  </channel>
 -</rss>
 \ No newline at end of file
-diff --git a/docs/images/about.png b/docs/images/about.png
+diff --git a/docs../images/about.png b/docs../images/about.png
 deleted file mode 100644
 index d03d8da..0000000
-Binary files a/docs/images/about.png and /dev/null differ
-diff --git a/docs/images/advantage.png b/docs/images/advantage.png
+Binary files a/docs../images/about.png and /dev/null differ
+diff --git a/docs../images/advantage.png b/docs../images/advantage.png
 deleted file mode 100644
 index f34bd1d..0000000
-Binary files a/docs/images/advantage.png and /dev/null differ
-diff --git a/docs/images/banner.png b/docs/images/banner.png
+Binary files a/docs../images/advantage.png and /dev/null differ
+diff --git a/docs../images/banner.png b/docs../images/banner.png
 deleted file mode 100644
 index ec963bc..0000000
-Binary files a/docs/images/banner.png and /dev/null differ
-diff --git a/docs/images/blog/post-1.jpg b/docs/images/blog/post-1.jpg
+Binary files a/docs../images/banner.png and /dev/null differ
+diff --git a/docs../images/blog/post-1.jpg b/docs../images/blog/post-1.jpg
 deleted file mode 100644
 index 6d4907a..0000000
-Binary files a/docs/images/blog/post-1.jpg and /dev/null differ
-diff --git a/docs/images/blog/post-2.jpg b/docs/images/blog/post-2.jpg
+Binary files a/docs../images/blog/post-1.jpg and /dev/null differ
+diff --git a/docs../images/blog/post-2.jpg b/docs../images/blog/post-2.jpg
 deleted file mode 100644
 index 1befd2f..0000000
-Binary files a/docs/images/blog/post-2.jpg and /dev/null differ
-diff --git a/docs/images/blog/post-3.jpg b/docs/images/blog/post-3.jpg
+Binary files a/docs../images/blog/post-2.jpg and /dev/null differ
+diff --git a/docs../images/blog/post-3.jpg b/docs../images/blog/post-3.jpg
 deleted file mode 100644
 index 1353c56..0000000
-Binary files a/docs/images/blog/post-3.jpg and /dev/null differ
-diff --git a/docs/images/blog/post-4.jpg b/docs/images/blog/post-4.jpg
+Binary files a/docs../images/blog/post-3.jpg and /dev/null differ
+diff --git a/docs../images/blog/post-4.jpg b/docs../images/blog/post-4.jpg
 deleted file mode 100644
 index fd09951..0000000
-Binary files a/docs/images/blog/post-4.jpg and /dev/null differ
-diff --git a/docs/images/clients/client-1.jpg b/docs/images/clients/client-1.jpg
+Binary files a/docs../images/blog/post-4.jpg and /dev/null differ
+diff --git a/docs../images/clients/client-1.jpg b/docs../images/clients/client-1.jpg
 deleted file mode 100644
 index b791260..0000000
-Binary files a/docs/images/clients/client-1.jpg and /dev/null differ
-diff --git a/docs/images/clients/client-2.jpg b/docs/images/clients/client-2.jpg
+Binary files a/docs../images/clients/client-1.jpg and /dev/null differ
+diff --git a/docs../images/clients/client-2.jpg b/docs../images/clients/client-2.jpg
 deleted file mode 100644
 index fda324f..0000000
-Binary files a/docs/images/clients/client-2.jpg and /dev/null differ
-diff --git a/docs/images/clients/client-3.jpg b/docs/images/clients/client-3.jpg
+Binary files a/docs../images/clients/client-2.jpg and /dev/null differ
+diff --git a/docs../images/clients/client-3.jpg b/docs../images/clients/client-3.jpg
 deleted file mode 100644
 index f5fb63d..0000000
-Binary files a/docs/images/clients/client-3.jpg and /dev/null differ
-diff --git a/docs/images/cta-overlay.png b/docs/images/cta-overlay.png
+Binary files a/docs../images/clients/client-3.jpg and /dev/null differ
+diff --git a/docs../images/cta-overlay.png b/docs../images/cta-overlay.png
 deleted file mode 100644
 index e22616f..0000000
-Binary files a/docs/images/cta-overlay.png and /dev/null differ
-diff --git a/docs/images/cta.png b/docs/images/cta.png
+Binary files a/docs../images/cta-overlay.png and /dev/null differ
+diff --git a/docs../images/cta.png b/docs../images/cta.png
 deleted file mode 100644
 index 4a0a1c0..0000000
-Binary files a/docs/images/cta.png and /dev/null differ
-diff --git a/docs/images/favicon.png b/docs/images/favicon.png
+Binary files a/docs../images/cta.png and /dev/null differ
+diff --git a/docs../images/favicon.png b/docs../images/favicon.png
 deleted file mode 100644
 index 285706b..0000000
-Binary files a/docs/images/favicon.png and /dev/null differ
-diff --git a/docs/images/logo.png b/docs/images/logo.png
+Binary files a/docs../images/favicon.png and /dev/null differ
+diff --git a/docs../images/logo.png b/docs../images/logo.png
 deleted file mode 100644
 index 333f9fe..0000000
-Binary files a/docs/images/logo.png and /dev/null differ
-diff --git a/docs/images/marker.png b/docs/images/marker.png
+Binary files a/docs../images/logo.png and /dev/null differ
+diff --git a/docs../images/marker.png b/docs../images/marker.png
 deleted file mode 100644
 index e95ac96..0000000
-Binary files a/docs/images/marker.png and /dev/null differ
-diff --git a/docs/images/material/material-1.png b/docs/images/material/material-1.png
+Binary files a/docs../images/marker.png and /dev/null differ
+diff --git a/docs../images/material/material-1.png b/docs../images/material/material-1.png
 deleted file mode 100644
 index 51edeb6..0000000
-Binary files a/docs/images/material/material-1.png and /dev/null differ
-diff --git a/docs/images/material/material-2.png b/docs/images/material/material-2.png
+Binary files a/docs../images/material/material-1.png and /dev/null differ
+diff --git a/docs../images/material/material-2.png b/docs../images/material/material-2.png
 deleted file mode 100644
 index 9bd7ea6..0000000
-Binary files a/docs/images/material/material-2.png and /dev/null differ
-diff --git a/docs/images/material/material-3.png b/docs/images/material/material-3.png
+Binary files a/docs../images/material/material-2.png and /dev/null differ
+diff --git a/docs../images/material/material-3.png b/docs../images/material/material-3.png
 deleted file mode 100644
 index 76b1b04..0000000
-Binary files a/docs/images/material/material-3.png and /dev/null differ
-diff --git a/docs/images/material/material-4.png b/docs/images/material/material-4.png
+Binary files a/docs../images/material/material-3.png and /dev/null differ
+diff --git a/docs../images/material/material-4.png b/docs../images/material/material-4.png
 deleted file mode 100644
 index d047a4b..0000000
-Binary files a/docs/images/material/material-4.png and /dev/null differ
-diff --git a/docs/images/products/product-1.png b/docs/images/products/product-1.png
+Binary files a/docs../images/material/material-4.png and /dev/null differ
+diff --git a/docs../images/products/product-1.png b/docs../images/products/product-1.png
 deleted file mode 100644
 index 851fef0..0000000
-Binary files a/docs/images/products/product-1.png and /dev/null differ
-diff --git a/docs/images/products/product-2.png b/docs/images/products/product-2.png
+Binary files a/docs../images/products/product-1.png and /dev/null differ
+diff --git a/docs../images/products/product-2.png b/docs../images/products/product-2.png
 deleted file mode 100644
 index 0e3fb89..0000000
-Binary files a/docs/images/products/product-2.png and /dev/null differ
-diff --git a/docs/images/products/product-3.png b/docs/images/products/product-3.png
+Binary files a/docs../images/products/product-2.png and /dev/null differ
+diff --git a/docs../images/products/product-3.png b/docs../images/products/product-3.png
 deleted file mode 100644
 index cf8aba5..0000000
-Binary files a/docs/images/products/product-3.png and /dev/null differ
-diff --git a/docs/images/products/product-4.png b/docs/images/products/product-4.png
+Binary files a/docs../images/products/product-3.png and /dev/null differ
+diff --git a/docs../images/products/product-4.png b/docs../images/products/product-4.png
 deleted file mode 100644
 index a8bf832..0000000
-Binary files a/docs/images/products/product-4.png and /dev/null differ
-diff --git a/docs/images/products/product-5.png b/docs/images/products/product-5.png
+Binary files a/docs../images/products/product-4.png and /dev/null differ
+diff --git a/docs../images/products/product-5.png b/docs../images/products/product-5.png
 deleted file mode 100644
 index 3adf8bc..0000000
-Binary files a/docs/images/products/product-5.png and /dev/null differ
-diff --git a/docs/images/products/product-6.png b/docs/images/products/product-6.png
+Binary files a/docs../images/products/product-5.png and /dev/null differ
+diff --git a/docs../images/products/product-6.png b/docs../images/products/product-6.png
 deleted file mode 100644
 index 3dd502d..0000000
-Binary files a/docs/images/products/product-6.png and /dev/null differ
-diff --git a/docs/images/video-thumb.jpg b/docs/images/video-thumb.jpg
+Binary files a/docs../images/products/product-6.png and /dev/null differ
+diff --git a/docs../images/video-thumb.jpg b/docs../images/video-thumb.jpg
 deleted file mode 100644
 index f28eb81..0000000
-Binary files a/docs/images/video-thumb.jpg and /dev/null differ
+Binary files a/docs../images/video-thumb.jpg and /dev/null differ
 diff --git a/docs/index.html b/docs/index.html
 deleted file mode 100644
 index 1f2fa5c..0000000
@@ -2968,8 +2968,8 @@ index 1f2fa5c..0000000
 -  <link rel="stylesheet" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/scss/style.min.css" media="screen">
 -
 -  <!--Favicon-->
--  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
--  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
+-  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
+-  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
 -
 -</head>
 -<body>
@@ -2983,7 +2983,7 @@ index 1f2fa5c..0000000
 -  <div class="container">
 -    
 -    <nav class="navbar navbar-expand-lg navbar-light">
--      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
+-      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
 -        <i class="ti-menu"></i>
 -      </button>
@@ -3060,7 +3060,7 @@ index 1f2fa5c..0000000
 -        
 -      </div>
 -      <div class="col-lg-7 col-md-6 order-1 order-lg-2">
--        <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/banner.png" class="img-fluid" alt="">
+-        <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/banner.png" class="img-fluid" alt="">
 -      </div>
 -    </div>
 -  </div>
@@ -3076,7 +3076,7 @@ index 1f2fa5c..0000000
 -  <div class="container">
 -    <div class="row justify-content-around align-items-center">
 -      <div class="col-lg-5 col-md-6">
--        <img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/about.png" alt="">
+-        <img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/about.png" alt="">
 -      </div>
 -      <div class="col-md-6 col-lg-5">
 -        <h2>About Our Product</h2>
@@ -3093,7 +3093,7 @@ index 1f2fa5c..0000000
 -
 -
 -<section class="py-4 bg-gradient position-relative">
--  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta-overlay.png" class="img-fluid overlay-image" alt="">
+-  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta-overlay.png" class="img-fluid overlay-image" alt="">
 -  <div class="container">
 -    <div class="row">
 -      <div class="col-lg-8 col-md-7">
@@ -3104,7 +3104,7 @@ index 1f2fa5c..0000000
 -        
 -      </div>
 -      <div class="col-lg-4 col-md-5 position-relative">
--        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta.png" alt="">
+-        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta.png" alt="">
 -      </div>
 -    </div>
 -  </div>
@@ -3128,7 +3128,7 @@ index 1f2fa5c..0000000
 -      
 -      <div class="col-lg-3 col-md-4 col-sm-6">
 -        <div class="card border-0 text-center">
--          <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/material/material-1.png" alt="material" class="card-img-top border-0">
+-          <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/material/material-1.png" alt="material" class="card-img-top border-0">
 -          <div class="card-body">
 -            <h4>Matcha Seeds</h4>
 -            <p>Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem</p>
@@ -3138,7 +3138,7 @@ index 1f2fa5c..0000000
 -      
 -      <div class="col-lg-3 col-md-4 col-sm-6">
 -        <div class="card border-0 text-center">
--          <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/material/material-2.png" alt="material" class="card-img-top border-0">
+-          <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/material/material-2.png" alt="material" class="card-img-top border-0">
 -          <div class="card-body">
 -            <h4>Aloe Vera</h4>
 -            <p>Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem</p>
@@ -3148,7 +3148,7 @@ index 1f2fa5c..0000000
 -      
 -      <div class="col-lg-3 col-md-4 col-sm-6">
 -        <div class="card border-0 text-center">
--          <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/material/material-3.png" alt="material" class="card-img-top border-0">
+-          <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/material/material-3.png" alt="material" class="card-img-top border-0">
 -          <div class="card-body">
 -            <h4>Turmeric</h4>
 -            <p>Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem</p>
@@ -3158,7 +3158,7 @@ index 1f2fa5c..0000000
 -      
 -      <div class="col-lg-3 col-md-4 col-sm-6">
 -        <div class="card border-0 text-center">
--          <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/material/material-4.png" alt="material" class="card-img-top border-0">
+-          <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/material/material-4.png" alt="material" class="card-img-top border-0">
 -          <div class="card-body">
 -            <h4>Tulshi leaf</h4>
 -            <p>Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem</p>
@@ -3199,7 +3199,7 @@ index 1f2fa5c..0000000
 -        </ul>
 -      </div>
 -      <div class="col-md-6">
--        <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/advantage.png" class="img-fluid" alt="">
+-        <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/advantage.png" class="img-fluid" alt="">
 -      </div>
 -    </div>
 -  </div>
@@ -3216,7 +3216,7 @@ index 1f2fa5c..0000000
 -    <div class="row align-items-center justify-content-between">
 -      <div class="col-lg-5 col-md-6">
 -        <div class="img-border rounded mb-5 mb-md-0">
--          <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/video-thumb.jpg" alt="video thumb" class="img-fluid rounded">
+-          <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/video-thumb.jpg" alt="video thumb" class="img-fluid rounded">
 -          <a data-toggle="modal" data-src="https://www.youtube.com/embed/wf4F2-9UXUo" data-target="#videoModal2"
 -            class="text-color video-modal content-center"><i class="ti-control-play bg-gradient btn-play-lg"></i></a>
 -          
@@ -3257,7 +3257,7 @@ index 1f2fa5c..0000000
 -        <div class="card border-0 text-center">
 -          <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/products/taba-cream.1/">
 -            
--            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-2.png" alt="" class="card-img-top">
+-            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-2.png" alt="" class="card-img-top">
 -            
 -          </a>
 -          <div class="card-body">
@@ -3275,7 +3275,7 @@ index 1f2fa5c..0000000
 -        <div class="card border-0 text-center">
 -          <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/products/taba-cream.2/">
 -            
--            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-3.png" alt="" class="card-img-top">
+-            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-3.png" alt="" class="card-img-top">
 -            
 -          </a>
 -          <div class="card-body">
@@ -3293,7 +3293,7 @@ index 1f2fa5c..0000000
 -        <div class="card border-0 text-center">
 -          <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/products/taba-cream/">
 -            
--            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-1.png" alt="" class="card-img-top">
+-            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-1.png" alt="" class="card-img-top">
 -            
 -          </a>
 -          <div class="card-body">
@@ -3311,7 +3311,7 @@ index 1f2fa5c..0000000
 -        <div class="card border-0 text-center">
 -          <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/products/taba-facewash.1/">
 -            
--            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-4.png" alt="" class="card-img-top">
+-            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-4.png" alt="" class="card-img-top">
 -            
 -          </a>
 -          <div class="card-body">
@@ -3329,7 +3329,7 @@ index 1f2fa5c..0000000
 -        <div class="card border-0 text-center">
 -          <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/products/taba-facewash.2/">
 -            
--            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-6.png" alt="" class="card-img-top">
+-            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-6.png" alt="" class="card-img-top">
 -            
 -          </a>
 -          <div class="card-body">
@@ -3347,7 +3347,7 @@ index 1f2fa5c..0000000
 -        <div class="card border-0 text-center">
 -          <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/products/taba-facewash/">
 -            
--            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-5.png" alt="" class="card-img-top">
+-            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-5.png" alt="" class="card-img-top">
 -            
 -          </a>
 -          <div class="card-body">
@@ -3382,7 +3382,7 @@ index 1f2fa5c..0000000
 -      <div class="col-4">
 -        <div class="card border-primary text-center">
 -          <div class="card-body">
--            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/clients/client-1.jpg" class="client-img" alt="Angelo Perara">
+-            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/clients/client-1.jpg" class="client-img" alt="Angelo Perara">
 -            <p class="quoted">Lorem ipsum dolor sit amet, <!-- raw HTML omitted --> consetetur sadipscing elitr, diam <!-- raw HTML omitted --> nonumy eirmod tempor</p>
 -            <h6 class="font-weight-medium">Angelo Perara</h6>
 -            <small>CEO, Dialogue Broad Band</small>
@@ -3400,7 +3400,7 @@ index 1f2fa5c..0000000
 -      <div class="col-4">
 -        <div class="card border-primary text-center">
 -          <div class="card-body">
--            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/clients/client-2.jpg" class="client-img" alt="Riya Ventila">
+-            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/clients/client-2.jpg" class="client-img" alt="Riya Ventila">
 -            <p class="quoted">Lorem ipsum dolor sit amet, <!-- raw HTML omitted --> consetetur sadipscing elitr, diam <!-- raw HTML omitted --> nonumy eirmod tempor</p>
 -            <h6 class="font-weight-medium">Riya Ventila</h6>
 -            <small>CEO, Dialogue Broad Band</small>
@@ -3418,7 +3418,7 @@ index 1f2fa5c..0000000
 -      <div class="col-4">
 -        <div class="card border-primary text-center">
 -          <div class="card-body">
--            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/clients/client-3.jpg" class="client-img" alt="john Doe">
+-            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/clients/client-3.jpg" class="client-img" alt="john Doe">
 -            <p class="quoted">Lorem ipsum dolor sit amet, <!-- raw HTML omitted --> consetetur sadipscing elitr, diam <!-- raw HTML omitted --> nonumy eirmod tempor</p>
 -            <h6 class="font-weight-medium">john Doe</h6>
 -            <small>CEO, Dialogue Broad Band</small>
@@ -3436,7 +3436,7 @@ index 1f2fa5c..0000000
 -      <div class="col-4">
 -        <div class="card border-primary text-center">
 -          <div class="card-body">
--            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/clients/client-2.jpg" class="client-img" alt="Riya Ventila">
+-            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/clients/client-2.jpg" class="client-img" alt="Riya Ventila">
 -            <p class="quoted">Lorem ipsum dolor sit amet, <!-- raw HTML omitted --> consetetur sadipscing elitr, diam <!-- raw HTML omitted --> nonumy eirmod tempor</p>
 -            <h6 class="font-weight-medium">Riya Ventila</h6>
 -            <small>CEO, Dialogue Broad Band</small>
@@ -3462,7 +3462,7 @@ index 1f2fa5c..0000000
 -
 -
 -<section class="py-4 bg-gradient position-relative">
--  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta-overlay.png" class="img-fluid overlay-image" alt="">
+-  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta-overlay.png" class="img-fluid overlay-image" alt="">
 -  <div class="container">
 -    <div class="row">
 -      <div class="col-lg-8 col-md-7">
@@ -3473,7 +3473,7 @@ index 1f2fa5c..0000000
 -        
 -      </div>
 -      <div class="col-lg-4 col-md-5 position-relative">
--        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta.png" alt="">
+-        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta.png" alt="">
 -      </div>
 -    </div>
 -  </div>
@@ -3486,7 +3486,7 @@ index 1f2fa5c..0000000
 -  <div class="container">
 -    <div class="row border-bottom pb-5 justify-content-between">
 -      <div class="col-12 text-center section-sm">
--        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" class="img-fluid"
+-        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" class="img-fluid"
 -            alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      </div>
 -      <div class="col-md-3 col-sm-6">
@@ -4296,8 +4296,8 @@ index 46c4852..0000000
 -  <link rel="stylesheet" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/scss/style.min.css" media="screen">
 -
 -  <!--Favicon-->
--  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
--  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
+-  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
+-  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
 -
 -</head>
 -<body>
@@ -4311,7 +4311,7 @@ index 46c4852..0000000
 -  <div class="container">
 -    
 -    <nav class="navbar navbar-expand-lg navbar-light">
--      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
+-      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
 -        <i class="ti-menu"></i>
 -      </button>
@@ -4378,7 +4378,7 @@ index 46c4852..0000000
 -        <div class="card border-0 text-center">
 -          <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/products/taba-cream.1/">
 -            
--            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-2.png" alt="" class="card-img-top">
+-            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-2.png" alt="" class="card-img-top">
 -            
 -          </a>
 -          <div class="card-body">
@@ -4396,7 +4396,7 @@ index 46c4852..0000000
 -        <div class="card border-0 text-center">
 -          <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/products/taba-cream.2/">
 -            
--            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-3.png" alt="" class="card-img-top">
+-            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-3.png" alt="" class="card-img-top">
 -            
 -          </a>
 -          <div class="card-body">
@@ -4414,7 +4414,7 @@ index 46c4852..0000000
 -        <div class="card border-0 text-center">
 -          <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/products/taba-cream/">
 -            
--            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-1.png" alt="" class="card-img-top">
+-            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-1.png" alt="" class="card-img-top">
 -            
 -          </a>
 -          <div class="card-body">
@@ -4432,7 +4432,7 @@ index 46c4852..0000000
 -        <div class="card border-0 text-center">
 -          <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/products/taba-facewash.1/">
 -            
--            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-4.png" alt="" class="card-img-top">
+-            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-4.png" alt="" class="card-img-top">
 -            
 -          </a>
 -          <div class="card-body">
@@ -4450,7 +4450,7 @@ index 46c4852..0000000
 -        <div class="card border-0 text-center">
 -          <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/products/taba-facewash.2/">
 -            
--            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-6.png" alt="" class="card-img-top">
+-            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-6.png" alt="" class="card-img-top">
 -            
 -          </a>
 -          <div class="card-body">
@@ -4468,7 +4468,7 @@ index 46c4852..0000000
 -        <div class="card border-0 text-center">
 -          <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/products/taba-facewash/">
 -            
--            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-5.png" alt="" class="card-img-top">
+-            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-5.png" alt="" class="card-img-top">
 -            
 -          </a>
 -          <div class="card-body">
@@ -4486,7 +4486,7 @@ index 46c4852..0000000
 -        <div class="card border-0 text-center">
 -          <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/products/taba-shampoo.1/">
 -            
--            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-2.png" alt="" class="card-img-top">
+-            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-2.png" alt="" class="card-img-top">
 -            
 -          </a>
 -          <div class="card-body">
@@ -4504,7 +4504,7 @@ index 46c4852..0000000
 -        <div class="card border-0 text-center">
 -          <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/products/taba-shampoo.2/">
 -            
--            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-3.png" alt="" class="card-img-top">
+-            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-3.png" alt="" class="card-img-top">
 -            
 -          </a>
 -          <div class="card-body">
@@ -4522,7 +4522,7 @@ index 46c4852..0000000
 -        <div class="card border-0 text-center">
 -          <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/products/taba-shampoo/">
 -            
--            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-6.png" alt="" class="card-img-top">
+-            <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-6.png" alt="" class="card-img-top">
 -            
 -          </a>
 -          <div class="card-body">
@@ -4543,7 +4543,7 @@ index 46c4852..0000000
 -
 -
 -<section class="py-4 bg-gradient position-relative">
--  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta-overlay.png" class="img-fluid overlay-image" alt="">
+-  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta-overlay.png" class="img-fluid overlay-image" alt="">
 -  <div class="container">
 -    <div class="row">
 -      <div class="col-lg-8 col-md-7">
@@ -4554,7 +4554,7 @@ index 46c4852..0000000
 -        
 -      </div>
 -      <div class="col-lg-4 col-md-5 position-relative">
--        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta.png" alt="">
+-        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta.png" alt="">
 -      </div>
 -    </div>
 -  </div>
@@ -4566,7 +4566,7 @@ index 46c4852..0000000
 -  <div class="container">
 -    <div class="row border-bottom pb-5 justify-content-between">
 -      <div class="col-12 text-center section-sm">
--        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" class="img-fluid"
+-        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" class="img-fluid"
 -            alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      </div>
 -      <div class="col-md-3 col-sm-6">
@@ -4825,8 +4825,8 @@ index 3905c89..0000000
 -  <link rel="stylesheet" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/scss/style.min.css" media="screen">
 -
 -  <!--Favicon-->
--  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
--  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
+-  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
+-  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
 -
 -</head>
 -<body>
@@ -4840,7 +4840,7 @@ index 3905c89..0000000
 -  <div class="container">
 -    
 -    <nav class="navbar navbar-expand-lg navbar-light">
--      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
+-      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
 -        <i class="ti-menu"></i>
 -      </button>
@@ -4906,20 +4906,20 @@ index 3905c89..0000000
 -        
 -        <div class="product-slider">
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-2.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-2.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-2.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-2.png" alt="product-img">
 -          </div>
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-1.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-1.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-1.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-1.png" alt="product-img">
 -          </div>
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-3.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-3.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-3.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-3.png" alt="product-img">
 -          </div>
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-4.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-4.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-4.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-4.png" alt="product-img">
 -          </div>
 -          
 -        </div>
@@ -4967,7 +4967,7 @@ index 3905c89..0000000
 -
 -
 -<section class="py-4 bg-gradient position-relative">
--  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta-overlay.png" class="img-fluid overlay-image" alt="">
+-  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta-overlay.png" class="img-fluid overlay-image" alt="">
 -  <div class="container">
 -    <div class="row">
 -      <div class="col-lg-8 col-md-7">
@@ -4978,7 +4978,7 @@ index 3905c89..0000000
 -        
 -      </div>
 -      <div class="col-lg-4 col-md-5 position-relative">
--        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta.png" alt="">
+-        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta.png" alt="">
 -      </div>
 -    </div>
 -  </div>
@@ -4990,7 +4990,7 @@ index 3905c89..0000000
 -  <div class="container">
 -    <div class="row border-bottom pb-5 justify-content-between">
 -      <div class="col-12 text-center section-sm">
--        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" class="img-fluid"
+-        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" class="img-fluid"
 -            alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      </div>
 -      <div class="col-md-3 col-sm-6">
@@ -5146,8 +5146,8 @@ index e04d7f6..0000000
 -  <link rel="stylesheet" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/scss/style.min.css" media="screen">
 -
 -  <!--Favicon-->
--  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
--  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
+-  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
+-  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
 -
 -</head>
 -<body>
@@ -5161,7 +5161,7 @@ index e04d7f6..0000000
 -  <div class="container">
 -    
 -    <nav class="navbar navbar-expand-lg navbar-light">
--      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
+-      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
 -        <i class="ti-menu"></i>
 -      </button>
@@ -5227,20 +5227,20 @@ index e04d7f6..0000000
 -        
 -        <div class="product-slider">
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-3.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-3.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-3.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-3.png" alt="product-img">
 -          </div>
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-2.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-2.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-2.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-2.png" alt="product-img">
 -          </div>
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-1.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-1.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-1.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-1.png" alt="product-img">
 -          </div>
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-4.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-4.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-4.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-4.png" alt="product-img">
 -          </div>
 -          
 -        </div>
@@ -5288,7 +5288,7 @@ index e04d7f6..0000000
 -
 -
 -<section class="py-4 bg-gradient position-relative">
--  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta-overlay.png" class="img-fluid overlay-image" alt="">
+-  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta-overlay.png" class="img-fluid overlay-image" alt="">
 -  <div class="container">
 -    <div class="row">
 -      <div class="col-lg-8 col-md-7">
@@ -5299,7 +5299,7 @@ index e04d7f6..0000000
 -        
 -      </div>
 -      <div class="col-lg-4 col-md-5 position-relative">
--        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta.png" alt="">
+-        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta.png" alt="">
 -      </div>
 -    </div>
 -  </div>
@@ -5311,7 +5311,7 @@ index e04d7f6..0000000
 -  <div class="container">
 -    <div class="row border-bottom pb-5 justify-content-between">
 -      <div class="col-12 text-center section-sm">
--        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" class="img-fluid"
+-        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" class="img-fluid"
 -            alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      </div>
 -      <div class="col-md-3 col-sm-6">
@@ -5467,8 +5467,8 @@ index a2efbdd..0000000
 -  <link rel="stylesheet" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/scss/style.min.css" media="screen">
 -
 -  <!--Favicon-->
--  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
--  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
+-  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
+-  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
 -
 -</head>
 -<body>
@@ -5482,7 +5482,7 @@ index a2efbdd..0000000
 -  <div class="container">
 -    
 -    <nav class="navbar navbar-expand-lg navbar-light">
--      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
+-      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
 -        <i class="ti-menu"></i>
 -      </button>
@@ -5548,20 +5548,20 @@ index a2efbdd..0000000
 -        
 -        <div class="product-slider">
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-1.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-1.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-1.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-1.png" alt="product-img">
 -          </div>
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-2.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-2.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-2.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-2.png" alt="product-img">
 -          </div>
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-3.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-3.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-3.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-3.png" alt="product-img">
 -          </div>
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-4.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-4.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-4.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-4.png" alt="product-img">
 -          </div>
 -          
 -        </div>
@@ -5609,7 +5609,7 @@ index a2efbdd..0000000
 -
 -
 -<section class="py-4 bg-gradient position-relative">
--  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta-overlay.png" class="img-fluid overlay-image" alt="">
+-  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta-overlay.png" class="img-fluid overlay-image" alt="">
 -  <div class="container">
 -    <div class="row">
 -      <div class="col-lg-8 col-md-7">
@@ -5620,7 +5620,7 @@ index a2efbdd..0000000
 -        
 -      </div>
 -      <div class="col-lg-4 col-md-5 position-relative">
--        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta.png" alt="">
+-        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta.png" alt="">
 -      </div>
 -    </div>
 -  </div>
@@ -5632,7 +5632,7 @@ index a2efbdd..0000000
 -  <div class="container">
 -    <div class="row border-bottom pb-5 justify-content-between">
 -      <div class="col-12 text-center section-sm">
--        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" class="img-fluid"
+-        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" class="img-fluid"
 -            alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      </div>
 -      <div class="col-md-3 col-sm-6">
@@ -5788,8 +5788,8 @@ index 9ece378..0000000
 -  <link rel="stylesheet" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/scss/style.min.css" media="screen">
 -
 -  <!--Favicon-->
--  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
--  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
+-  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
+-  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
 -
 -</head>
 -<body>
@@ -5803,7 +5803,7 @@ index 9ece378..0000000
 -  <div class="container">
 -    
 -    <nav class="navbar navbar-expand-lg navbar-light">
--      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
+-      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
 -        <i class="ti-menu"></i>
 -      </button>
@@ -5869,20 +5869,20 @@ index 9ece378..0000000
 -        
 -        <div class="product-slider">
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-4.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-4.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-4.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-4.png" alt="product-img">
 -          </div>
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-2.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-2.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-2.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-2.png" alt="product-img">
 -          </div>
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-3.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-3.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-3.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-3.png" alt="product-img">
 -          </div>
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-6.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-6.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-6.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-6.png" alt="product-img">
 -          </div>
 -          
 -        </div>
@@ -5930,7 +5930,7 @@ index 9ece378..0000000
 -
 -
 -<section class="py-4 bg-gradient position-relative">
--  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta-overlay.png" class="img-fluid overlay-image" alt="">
+-  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta-overlay.png" class="img-fluid overlay-image" alt="">
 -  <div class="container">
 -    <div class="row">
 -      <div class="col-lg-8 col-md-7">
@@ -5941,7 +5941,7 @@ index 9ece378..0000000
 -        
 -      </div>
 -      <div class="col-lg-4 col-md-5 position-relative">
--        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta.png" alt="">
+-        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta.png" alt="">
 -      </div>
 -    </div>
 -  </div>
@@ -5953,7 +5953,7 @@ index 9ece378..0000000
 -  <div class="container">
 -    <div class="row border-bottom pb-5 justify-content-between">
 -      <div class="col-12 text-center section-sm">
--        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" class="img-fluid"
+-        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" class="img-fluid"
 -            alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      </div>
 -      <div class="col-md-3 col-sm-6">
@@ -6109,8 +6109,8 @@ index 918d4ed..0000000
 -  <link rel="stylesheet" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/scss/style.min.css" media="screen">
 -
 -  <!--Favicon-->
--  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
--  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
+-  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
+-  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
 -
 -</head>
 -<body>
@@ -6124,7 +6124,7 @@ index 918d4ed..0000000
 -  <div class="container">
 -    
 -    <nav class="navbar navbar-expand-lg navbar-light">
--      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
+-      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
 -        <i class="ti-menu"></i>
 -      </button>
@@ -6190,20 +6190,20 @@ index 918d4ed..0000000
 -        
 -        <div class="product-slider">
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-6.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-6.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-6.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-6.png" alt="product-img">
 -          </div>
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-2.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-2.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-2.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-2.png" alt="product-img">
 -          </div>
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-3.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-3.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-3.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-3.png" alt="product-img">
 -          </div>
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-4.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-4.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-4.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-4.png" alt="product-img">
 -          </div>
 -          
 -        </div>
@@ -6251,7 +6251,7 @@ index 918d4ed..0000000
 -
 -
 -<section class="py-4 bg-gradient position-relative">
--  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta-overlay.png" class="img-fluid overlay-image" alt="">
+-  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta-overlay.png" class="img-fluid overlay-image" alt="">
 -  <div class="container">
 -    <div class="row">
 -      <div class="col-lg-8 col-md-7">
@@ -6262,7 +6262,7 @@ index 918d4ed..0000000
 -        
 -      </div>
 -      <div class="col-lg-4 col-md-5 position-relative">
--        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta.png" alt="">
+-        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta.png" alt="">
 -      </div>
 -    </div>
 -  </div>
@@ -6274,7 +6274,7 @@ index 918d4ed..0000000
 -  <div class="container">
 -    <div class="row border-bottom pb-5 justify-content-between">
 -      <div class="col-12 text-center section-sm">
--        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" class="img-fluid"
+-        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" class="img-fluid"
 -            alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      </div>
 -      <div class="col-md-3 col-sm-6">
@@ -6430,8 +6430,8 @@ index a374f9f..0000000
 -  <link rel="stylesheet" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/scss/style.min.css" media="screen">
 -
 -  <!--Favicon-->
--  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
--  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
+-  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
+-  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
 -
 -</head>
 -<body>
@@ -6445,7 +6445,7 @@ index a374f9f..0000000
 -  <div class="container">
 -    
 -    <nav class="navbar navbar-expand-lg navbar-light">
--      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
+-      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
 -        <i class="ti-menu"></i>
 -      </button>
@@ -6511,20 +6511,20 @@ index a374f9f..0000000
 -        
 -        <div class="product-slider">
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-5.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-5.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-5.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-5.png" alt="product-img">
 -          </div>
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-2.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-2.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-2.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-2.png" alt="product-img">
 -          </div>
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-3.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-3.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-3.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-3.png" alt="product-img">
 -          </div>
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-4.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-4.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-4.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-4.png" alt="product-img">
 -          </div>
 -          
 -        </div>
@@ -6572,7 +6572,7 @@ index a374f9f..0000000
 -
 -
 -<section class="py-4 bg-gradient position-relative">
--  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta-overlay.png" class="img-fluid overlay-image" alt="">
+-  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta-overlay.png" class="img-fluid overlay-image" alt="">
 -  <div class="container">
 -    <div class="row">
 -      <div class="col-lg-8 col-md-7">
@@ -6583,7 +6583,7 @@ index a374f9f..0000000
 -        
 -      </div>
 -      <div class="col-lg-4 col-md-5 position-relative">
--        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta.png" alt="">
+-        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta.png" alt="">
 -      </div>
 -    </div>
 -  </div>
@@ -6595,7 +6595,7 @@ index a374f9f..0000000
 -  <div class="container">
 -    <div class="row border-bottom pb-5 justify-content-between">
 -      <div class="col-12 text-center section-sm">
--        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" class="img-fluid"
+-        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" class="img-fluid"
 -            alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      </div>
 -      <div class="col-md-3 col-sm-6">
@@ -6751,8 +6751,8 @@ index e7fc28b..0000000
 -  <link rel="stylesheet" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/scss/style.min.css" media="screen">
 -
 -  <!--Favicon-->
--  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
--  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
+-  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
+-  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
 -
 -</head>
 -<body>
@@ -6766,7 +6766,7 @@ index e7fc28b..0000000
 -  <div class="container">
 -    
 -    <nav class="navbar navbar-expand-lg navbar-light">
--      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
+-      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
 -        <i class="ti-menu"></i>
 -      </button>
@@ -6832,20 +6832,20 @@ index e7fc28b..0000000
 -        
 -        <div class="product-slider">
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-2.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-2.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-2.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-2.png" alt="product-img">
 -          </div>
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-5.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-5.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-5.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-5.png" alt="product-img">
 -          </div>
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-3.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-3.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-3.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-3.png" alt="product-img">
 -          </div>
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-4.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-4.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-4.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-4.png" alt="product-img">
 -          </div>
 -          
 -        </div>
@@ -6893,7 +6893,7 @@ index e7fc28b..0000000
 -
 -
 -<section class="py-4 bg-gradient position-relative">
--  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta-overlay.png" class="img-fluid overlay-image" alt="">
+-  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta-overlay.png" class="img-fluid overlay-image" alt="">
 -  <div class="container">
 -    <div class="row">
 -      <div class="col-lg-8 col-md-7">
@@ -6904,7 +6904,7 @@ index e7fc28b..0000000
 -        
 -      </div>
 -      <div class="col-lg-4 col-md-5 position-relative">
--        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta.png" alt="">
+-        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta.png" alt="">
 -      </div>
 -    </div>
 -  </div>
@@ -6916,7 +6916,7 @@ index e7fc28b..0000000
 -  <div class="container">
 -    <div class="row border-bottom pb-5 justify-content-between">
 -      <div class="col-12 text-center section-sm">
--        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" class="img-fluid"
+-        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" class="img-fluid"
 -            alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      </div>
 -      <div class="col-md-3 col-sm-6">
@@ -7072,8 +7072,8 @@ index f73b820..0000000
 -  <link rel="stylesheet" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/scss/style.min.css" media="screen">
 -
 -  <!--Favicon-->
--  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
--  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
+-  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
+-  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
 -
 -</head>
 -<body>
@@ -7087,7 +7087,7 @@ index f73b820..0000000
 -  <div class="container">
 -    
 -    <nav class="navbar navbar-expand-lg navbar-light">
--      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
+-      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
 -        <i class="ti-menu"></i>
 -      </button>
@@ -7153,20 +7153,20 @@ index f73b820..0000000
 -        
 -        <div class="product-slider">
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-3.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-3.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-3.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-3.png" alt="product-img">
 -          </div>
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-2.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-2.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-2.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-2.png" alt="product-img">
 -          </div>
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-6.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-6.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-6.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-6.png" alt="product-img">
 -          </div>
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-4.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-4.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-4.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-4.png" alt="product-img">
 -          </div>
 -          
 -        </div>
@@ -7214,7 +7214,7 @@ index f73b820..0000000
 -
 -
 -<section class="py-4 bg-gradient position-relative">
--  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta-overlay.png" class="img-fluid overlay-image" alt="">
+-  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta-overlay.png" class="img-fluid overlay-image" alt="">
 -  <div class="container">
 -    <div class="row">
 -      <div class="col-lg-8 col-md-7">
@@ -7225,7 +7225,7 @@ index f73b820..0000000
 -        
 -      </div>
 -      <div class="col-lg-4 col-md-5 position-relative">
--        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta.png" alt="">
+-        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta.png" alt="">
 -      </div>
 -    </div>
 -  </div>
@@ -7237,7 +7237,7 @@ index f73b820..0000000
 -  <div class="container">
 -    <div class="row border-bottom pb-5 justify-content-between">
 -      <div class="col-12 text-center section-sm">
--        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" class="img-fluid"
+-        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" class="img-fluid"
 -            alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      </div>
 -      <div class="col-md-3 col-sm-6">
@@ -7393,8 +7393,8 @@ index 9607573..0000000
 -  <link rel="stylesheet" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/scss/style.min.css" media="screen">
 -
 -  <!--Favicon-->
--  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
--  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
+-  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
+-  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
 -
 -</head>
 -<body>
@@ -7408,7 +7408,7 @@ index 9607573..0000000
 -  <div class="container">
 -    
 -    <nav class="navbar navbar-expand-lg navbar-light">
--      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
+-      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
 -        <i class="ti-menu"></i>
 -      </button>
@@ -7474,20 +7474,20 @@ index 9607573..0000000
 -        
 -        <div class="product-slider">
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-6.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-6.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-6.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-6.png" alt="product-img">
 -          </div>
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-2.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-2.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-2.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-2.png" alt="product-img">
 -          </div>
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-3.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-3.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-3.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-3.png" alt="product-img">
 -          </div>
 -          
--          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-4.png">
--            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/products/product-4.png" alt="product-img">
+-          <div data-image="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-4.png">
+-            <img class="img-fluid w-100" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/products/product-4.png" alt="product-img">
 -          </div>
 -          
 -        </div>
@@ -7535,7 +7535,7 @@ index 9607573..0000000
 -
 -
 -<section class="py-4 bg-gradient position-relative">
--  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta-overlay.png" class="img-fluid overlay-image" alt="">
+-  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta-overlay.png" class="img-fluid overlay-image" alt="">
 -  <div class="container">
 -    <div class="row">
 -      <div class="col-lg-8 col-md-7">
@@ -7546,7 +7546,7 @@ index 9607573..0000000
 -        
 -      </div>
 -      <div class="col-lg-4 col-md-5 position-relative">
--        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta.png" alt="">
+-        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta.png" alt="">
 -      </div>
 -    </div>
 -  </div>
@@ -7558,7 +7558,7 @@ index 9607573..0000000
 -  <div class="container">
 -    <div class="row border-bottom pb-5 justify-content-between">
 -      <div class="col-12 text-center section-sm">
--        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" class="img-fluid"
+-        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" class="img-fluid"
 -            alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      </div>
 -      <div class="col-md-3 col-sm-6">
@@ -7831,8 +7831,8 @@ index 557ea29..0000000
 -  <link rel="stylesheet" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/scss/style.min.css" media="screen">
 -
 -  <!--Favicon-->
--  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
--  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
+-  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
+-  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
 -
 -</head>
 -<body>
@@ -7846,7 +7846,7 @@ index 557ea29..0000000
 -  <div class="container">
 -    
 -    <nav class="navbar navbar-expand-lg navbar-light">
--      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
+-      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
 -        <i class="ti-menu"></i>
 -      </button>
@@ -7920,7 +7920,7 @@ index 557ea29..0000000
 -
 -
 -<section class="py-4 bg-gradient position-relative">
--  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta-overlay.png" class="img-fluid overlay-image" alt="">
+-  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta-overlay.png" class="img-fluid overlay-image" alt="">
 -  <div class="container">
 -    <div class="row">
 -      <div class="col-lg-8 col-md-7">
@@ -7931,7 +7931,7 @@ index 557ea29..0000000
 -        
 -      </div>
 -      <div class="col-lg-4 col-md-5 position-relative">
--        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta.png" alt="">
+-        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta.png" alt="">
 -      </div>
 -    </div>
 -  </div>
@@ -7943,7 +7943,7 @@ index 557ea29..0000000
 -  <div class="container">
 -    <div class="row border-bottom pb-5 justify-content-between">
 -      <div class="col-12 text-center section-sm">
--        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" class="img-fluid"
+-        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" class="img-fluid"
 -            alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      </div>
 -      <div class="col-md-3 col-sm-6">
@@ -8128,8 +8128,8 @@ index 1f087af..0000000
 -  <link rel="stylesheet" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/scss/style.min.css" media="screen">
 -
 -  <!--Favicon-->
--  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
--  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/favicon.png " type="image/x-icon">
+-  <link rel="shortcut icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
+-  <link rel="icon" href="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/favicon.png " type="image/x-icon">
 -
 -</head>
 -<body>
@@ -8143,7 +8143,7 @@ index 1f087af..0000000
 -  <div class="container">
 -    
 -    <nav class="navbar navbar-expand-lg navbar-light">
--      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
+-      <a class="navbar-brand" href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img class="img-fluid" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navigation">
 -        <i class="ti-menu"></i>
 -      </button>
@@ -8242,7 +8242,7 @@ index 1f087af..0000000
 -
 -
 -<section class="py-4 bg-gradient position-relative">
--  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta-overlay.png" class="img-fluid overlay-image" alt="">
+-  <img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta-overlay.png" class="img-fluid overlay-image" alt="">
 -  <div class="container">
 -    <div class="row">
 -      <div class="col-lg-8 col-md-7">
@@ -8253,7 +8253,7 @@ index 1f087af..0000000
 -        
 -      </div>
 -      <div class="col-lg-4 col-md-5 position-relative">
--        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/cta.png" alt="">
+-        <img class="cta-image" src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/cta.png" alt="">
 -      </div>
 -    </div>
 -  </div>
@@ -8265,7 +8265,7 @@ index 1f087af..0000000
 -  <div class="container">
 -    <div class="row border-bottom pb-5 justify-content-between">
 -      <div class="col-12 text-center section-sm">
--        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre/images/logo.png" class="img-fluid"
+-        <a href="https://thelaluka.github.io/CabinetOsteopathieDutertre/"><img src="https://thelaluka.github.io/CabinetOsteopathieDutertre../images/logo.png" class="img-fluid"
 -            alt="Osteopathie du sport | Aurélie Dutertre"></a>
 -      </div>
 -      <div class="col-md-3 col-sm-6">
