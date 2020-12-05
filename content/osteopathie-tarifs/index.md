@@ -1,11 +1,9 @@
 ---
-title: "Ostéopathie-tarifs"
+title: "Tarifs & informations"
 date: 2019-10-17T11:22:16+06:00
 draft: false
 description : "this is a meta description"
 ---
-
-### Ostéopathie
 
 - Séance : 1 heure à 65 €
 
