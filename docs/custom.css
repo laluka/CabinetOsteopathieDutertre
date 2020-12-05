@@ -1,0 +1,10 @@
+.snipcart-summary {
+    border: none;
+    background: none;
+    text-align: center;
+  }
+  
+body, .navigation {
+  background: linear-gradient(90deg, rgba(148, 255, 144, 1) 0%, rgba(255,255,255,1) 10%, rgba(255,255,255,1) 90%, rgba(148, 255, 144,1) 100%);
+}
+

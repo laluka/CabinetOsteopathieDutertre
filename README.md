@@ -23,8 +23,6 @@ git push
 
 # TODO LALU
 
-- Boutons rdv
-- Couleur Background
 - Taille des images
 
 # Échange avec Aurélie:
