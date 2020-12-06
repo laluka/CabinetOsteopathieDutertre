@@ -5,6 +5,10 @@
   }
   
 body, .navigation {
-  background: linear-gradient(90deg, rgba(148, 255, 144, 1) 0%, rgba(255,255,255,1) 10%, rgba(255,255,255,1) 90%, rgba(148, 255, 144,1) 100%);
+  background: linear-gradient(90deg, #94d239 0%, #ffffff 3%, #ffffff 97%, #94d239 100%);
+  /* background: linear-gradient(90deg, #5bb61f 0%, rgba(255,255,255,1) 10%, rgba(255,255,255,1) 90%, #5bb61f 100%); */
 }
 
+.text-white {
+  font-size: 2em;
+}
