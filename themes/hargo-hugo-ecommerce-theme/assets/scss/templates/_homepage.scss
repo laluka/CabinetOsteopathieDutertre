@@ -1,10 +1,16 @@
 .overlay-image {
   position: absolute;
   left: 0;
-  right: 0;
   top: 0;
-  height: 100%;
   width: 100%;
+  object-fit: cover;
+}
+
+@media (max-width: 1200px) {
+  .overlay-image {
+    height: 100%;
+    object-fit: cover;
+  }
 }
 
 .cta-image {
