@@ -1,13 +1,10 @@
 ############################# contact info ################
 contact:
   enable : true
-  # office
   office:
-    title : " #### Nous situer"
+    title : "#### Nous situer"
     content : "La cabinet d'ostéopathe d'Aurélie Dutertre se trouve à côté du centre des impôts et de la CPAM de Grenoble, dans l'Isère."
     
-        # other information comes from "config.toml"
-
   # opennig hour
   opennigHour:
     title : "#### Moyen d'accès"

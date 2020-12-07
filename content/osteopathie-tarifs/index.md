@@ -5,25 +5,27 @@ draft: false
 description : "this is a meta description"
 ---
 
+
+### Séance classique
+
 - Séance : 1 heure à 65 €
 
-Anamnèse : 10 min   
-Traitement : 50 min
+Anamnèse 10 min, Traitement 50 min
+
+<img src="../images/tarifs-1.jpg" alt="tarifs" class="img-fluid">
 
 
 ### Prévention des blessures
 
+- Bilan complet - 2 heures à 120 €
+- Bilan semi-complet - 1 heure à 60 €
 
-Bilan complet prévention blessures @SmartBoard
-- 2 heures à 120 €
-
-Bilan semi-complet prévention blessures @ SmartBoard
-- 1 heure à 60 €
+<img src="../images/tarifs-2.jpg" alt="tarifs" class="img-fluid">
 
 
 ### Bilan micro nutirition
 
-- 1 heure à 50 € 
+- 1 heure à 50 €
 
 
 ### Certifications, Agréments, Label

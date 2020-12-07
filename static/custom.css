@@ -12,3 +12,7 @@ body, .navigation {
 .text-white {
   font-size: 2em;
 }
+
+.logo {
+  max-height: 50px;
+}

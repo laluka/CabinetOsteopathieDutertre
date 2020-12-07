@@ -7,6 +7,10 @@ description : "this is a meta description"
 
 #### Accompagne votre entraînement
 
+<img src="../images/smartboard-1.JPG" alt="smartboard" class="img-fluid">
+
+<img src="../images/smartboard-2.JPG" alt="smartboard demo" class="img-fluid">
+
 Basée sur des connaissances scientifiques.  
 Des évaluations dressent votre diagnostic physiologique de grimpeur.  
 Rend extrêmement ludique l'utilisation de la poutre. 

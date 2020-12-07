@@ -38,7 +38,7 @@ unsafe= true
 
   [[menu.main]]
   name = "L'Ostéopathie"
-  URL = "osteopathie_docu"  
+  URL = "osteopathie-docu"  
   weight = 1
 
   [[menu.main]]
@@ -53,7 +53,7 @@ unsafe= true
 
   [[menu.main]]
   name = "Liens utiles"
-  URL = "liens_utiles" 
+  URL = "liens-utiles" 
   weight = 4
 
   [[menu.main]]
@@ -69,7 +69,7 @@ unsafe= true
 
   [[menu.footer]]
   name = "L'Ostéopathie, c'est quoi ?"
-  URL = "osteopathie_docu"
+  URL = "osteopathie-docu"
   weight = 2
 
   [[menu.footer]]
@@ -79,7 +79,7 @@ unsafe= true
 
   [[menu.footer]]
   name = "Liens Utiles"
-  URL = "liens_utiles"
+  URL = "liens-utiles"
   weight = 4
 
   [[menu.footer]]
@@ -138,9 +138,3 @@ copyright = "&copy; 2020-2021 · [GoHugo](https://gohugo.io/) · [HargoTheme](ht
   [[params.social]]
     icon = "fa-linkedin"
     link = "https://www.linkedin.com/in/aurelie-dutertre-10435128/"
-
-  
-
-  # Contact Form
-  [params.contact]
-  formAction = "#" # contact form works with formspree.io

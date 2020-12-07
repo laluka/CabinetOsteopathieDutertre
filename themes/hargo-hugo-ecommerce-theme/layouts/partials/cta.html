@@ -1,16 +1,18 @@
 <!-- call to  action -->
 {{ with site.Data.homepage.cta }}
-<section class="py-4 bg-gradient position-relative" style="overflow: hidden;">
+<section class="py-4 bg-gradient position-relative" style="overflow: hidden; text-align: center;">
   <img src="{{ .overlayImage | absURL }}" class="img-fluid overlay-image" alt="">
-  <div class="container">
-    <div class="row">
-      <h2 class="text-white">{{ .title | markdownify }}</h2>
+  <div class="container justify-content-between" style="display: inline-flex;">
+    <!-- <div class="row"> -->
+      <a href="{{ site.BaseURL }}"><img src="{{ site.Params.logo | absURL }}" class="img-fluid logo"
+        alt="{{ site.Title }}"></a>
+      <h2 class="text-white d-sm-none d-md-block d-none d-sm-block">{{ .title | markdownify }}</h2>
       <!-- <p class="text-white">{{ .content | markdownify }}</p> -->
       {{ with .button }}
       <a class="nav-link snipcart-summary" target="_blank" href="{{ .link | absURL }}"><span class="badge btn btn-light" style="color: #4aa50e;">{{ .label }}</span></a>
       {{ end }}
       <!-- <img class="cta-image" src="{{ .image | absURL }}" alt=""> -->
-    </div>
+    <!-- </div> -->
   </div>
 </section>
 {{ end }}

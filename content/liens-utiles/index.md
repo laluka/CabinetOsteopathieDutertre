@@ -16,7 +16,7 @@ Je vous invite à suivre mes publications orientées sport, santé, et bien-êtr
 - [Linkedin](https://www.linkedin.com/in/aurelie-dutertre-10435128/)
 
 
-### Mes publication susr [grimper.com](grimper.com)
+### Mes publications sur [grimper.com](grimper.com)
 
 - [Étirement ](https://www.grimper.com/kine-faut-il-vraiment-etirer-escalade)
 - [Échauffement](https://www.grimper.com/kine-faut-il-echauffer-escalade)
