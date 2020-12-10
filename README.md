@@ -24,14 +24,5 @@ git push
 # TODO
 
 - Logo quand dispo
-- "Avec SmartBoard" -> lien relatif vers /smartboard
-- Bilan micro nutirition -> lien vers https://www.qms-iedm.fr/protection-cellulaire
-- Pour toutes les pages, texte un poil plus gros
-- /smartboard -> images -> onclick -> fullscreen in new tab
-- Gradient un peu moins sombre à droite (visibilité des liens)
-- Nettoyer format Homepage
-
-# TODO Aurel
-
 - Ajout photo micronutrion
 - Etoffer "Ma formation" -> wait links from Aurel

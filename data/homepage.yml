@@ -34,24 +34,6 @@ Aurélie Dutertre est agréée, reconnue par l'état et vous permet d'être remb
     # enable : true
     # videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
-# ########################## About ##############################
-# about:
-  # enable : true
-  # title : "Votre ostéopathe à Grenoble"
-  # content : "Bienvenue au cabinet d' ostéopathie d' Aurélie Dutertre, situé à Grenoble, quartier Vigny Musset . 
-  
-# Ostéopathe passionnée, diplômée en 2010 du collège ostéopathique Sutherland Paris, je réalise une prise en charge complète du patient sur une heure avec un travail de qualité. Dans le contexte actuel, votre santé et votre sécurité restent ma priorité.
-  
-# Je possède une grande expérience dans le sport de haut niveau dont 4 ans comme kinésithérapeute et ostéopathe pour l'équipe de France de Voile, puis deux ans pour l'équipe de France de ski alpinisme. 
-  
-# Depuis 10 ans, j'interviens auprès de l' équipe de France d'escalade (FFME) à Voiron mais aussi sur les compétitions internationales. 
-
-# Je vous accueille toute l’année, dans mon nouveau cabinet situé à Grenoble. Venez profiter de toute mon expérience pour la prise en charge des bébés, femmes enceintes, adultes et séniors.  
-
-# Aurélie Dutertre est agréée, reconnue par l'état et vous permet d'être remboursé par votre mutuelle."
-  # image : "images/about.png"
-
-
 ###################### Call to action ########################
 cta:
   enable : true

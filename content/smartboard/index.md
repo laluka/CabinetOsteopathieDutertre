@@ -15,11 +15,12 @@ Basée sur des connaissances scientifiques.
 Des évaluations dressent votre diagnostic physiologique de grimpeur.  
 Rend extrêmement ludique l'utilisation de la poutre. 
 
-<img src="../images/protocole_example.png" alt="protocole" class="img-fluid">
+<a href="../images/protocole_example.png" target="_blank"><img src="../images/protocole_example.png" alt="protocole" class="img-fluid"></a>
 
 D'autres exercices sont disponibles pour continuer à vous tester/entraîner.  
 Créez vos propres séances sur mesure.  
 
 Exemple d'analyse de résultats suites aux tests sur la Smartboard.
 
-<img src="../images/results_smartboard.png" alt="results" class="img-fluid">
+<a href="../images/results_smartboard.png" target="_blank"><img src="../images/results_smartboard.png" alt="results" class="img-fluid"></a>
+
