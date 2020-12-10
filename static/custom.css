@@ -5,9 +5,9 @@
   }
   
 body, .navigation {
-  background: linear-gradient(90deg, #94d239 0%, #ffffff 3%, #ffffff 97%, #94d239 100%);
+  /* background: linear-gradient(90deg, #94d239 0%, #ffffff 3%, #ffffff 97%, #94d239 100%); */
   /* background: linear-gradient(90deg, #5bb61f 0%, rgba(255,255,255,1) 10%, rgba(255,255,255,1) 90%, #5bb61f 100%); */
-  /* background: linear-gradient(90deg, #c28d5b 0%, #c0885b 1%, #d3cdc1 2%, #bea05e 98%, #c0885b 99%, #c28d5b 100%); */
+  background: linear-gradient(90deg, #e6d5c6 0, #d19258 100%);
   /* background: linear-gradient(90deg, #ddc1a2 0%, #ddc1a2 1%, #ddc1a2 2%, #e08f4c 94%, #e08f4c 98%, #e08f4c 100%); */
 
 }

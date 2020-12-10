@@ -27,10 +27,8 @@ Je vous invite à suivre mes publications orientées sport, santé, et bien-êtr
 - [L'auto-massage](https://www.grimper.com/kine-automassage-escalade)
 - [Prendre soin de ses pieds](https://www.grimper.com/kine-prendre-soin-pieds-mieux-grimper)
 
+### Mes autres publications
 
-### Autres ressources
-
-- [IED Micronutrition](https://www.iedm.asso.fr/product-category/micronutrition/) Institut où j'ai suivi ma formation
 - [Escalade](http://www.pghm-chamonix.com/wp-content/uploads/2015/12/Article-secouristes-en-montagne1.pdf) PGHM Chamonix
 - [Montagne Mag](https://www.montagnes-magazine.com/mag-montagnes-magazine-416-mai-2015)
 
@@ -40,3 +38,7 @@ Je vous invite à suivre mes publications orientées sport, santé, et bien-êtr
 Poutre d'entrainement instrumentée de capteurs de force qui vous permet de vous tester et de quantifier votre entraînement.
 
 - [SmartBoard au cabinet](https://www.smartboard-climbing.com/)
+
+### Ma formation
+
+- [IED Micronutrition](https://www.iedm.asso.fr/product-category/micronutrition/) Institut où j'ai suivi ma formation
