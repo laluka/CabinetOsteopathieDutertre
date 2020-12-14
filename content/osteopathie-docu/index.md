@@ -9,7 +9,7 @@ description : "this is a meta description"
 
 - #### Qu’est-ce que l’ostéopathie ?
 
-C’est une thérapeutique manuelle fondée sur des manipulations osseuses, musculaires ,crâniennes et viscérales.L’ostéopathie et non douloureuse.
+C’est une thérapeutique manuelle fondée sur des manipulations osseuses, musculaires, crâniennes, et viscérales.L’ostéopathie est non douloureuse.
 
 - #### À qui s’adresse ostéopathie ?
 

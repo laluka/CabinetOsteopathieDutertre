@@ -27,6 +27,7 @@ Anamnèse 10 min, Traitement 50 min
 
 - 1 heure à 50 €
 
+<img src="../images/micronutrition.png" alt="micronutrition" class="img-fluid" style="width: 70%">
 
 ### Certifications, Agréments, Label
 

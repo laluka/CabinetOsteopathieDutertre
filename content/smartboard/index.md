@@ -11,9 +11,11 @@ description : "this is a meta description"
 
 <img src="../images/smartboard-2.JPG" alt="smartboard demo" class="img-fluid">
 
-Basée sur des connaissances scientifiques.  
-Des évaluations dressent votre diagnostic physiologique de grimpeur.  
-Rend extrêmement ludique l'utilisation de la poutre. 
+Basée sur des connaissances scientifiques, j'évalue votre bilan physiologique.
+
+A travers de nombreux tests physique, comme chez un préparateur physique, je mesure vos déséquilibres musculaires. 
+
+Je vous propose, un protocole à faire chez vous avec par exemple: une poutre, ballons et élastiques pour vous corriger et prévenir une blessure.
 
 <a href="../images/protocole_example.png" target="_blank"><img src="../images/protocole_example.png" alt="protocole" class="img-fluid"></a>
 

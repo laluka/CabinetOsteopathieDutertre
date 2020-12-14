@@ -5,6 +5,11 @@ draft: false
 description : "this is a meta description"
 ---
 
+<style>
+a {
+    color: #000000;
+}
+</style>
 
 ### Réseaux sociaux
 
@@ -39,6 +44,10 @@ Poutre d'entrainement instrumentée de capteurs de force qui vous permet de vous
 
 - [SmartBoard au cabinet](https://www.smartboard-climbing.com/)
 
-### Ma formation
+### Mes formations
 
-- [IED Micronutrition](https://www.iedm.asso.fr/product-category/micronutrition/) Institut où j'ai suivi ma formation
+- [IED Micronutrition](https://www.iedm.asso.fr/product-category/micronutrition/)
+- [Kinesport à Paris](https://www.kinesport.fr/home)
+- [Ecole d'ostéopathie Sutherland Paris](https://www.ecole-osteopathie-paris.fr/l-ecole-1.html)
+- [Diplôme de médecine urgence en montagne](https://www.secours-montagne.fr/le-diplome-diumum/)
+- [Formation en naturopathie](https://lechosauvage.fr)

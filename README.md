@@ -24,5 +24,3 @@ git push
 # TODO
 
 - Logo quand dispo
-- Ajout photo micronutrion
-- Etoffer "Ma formation" -> wait links from Aurel
