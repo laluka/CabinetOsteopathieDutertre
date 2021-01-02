@@ -20,7 +20,3 @@ git add foo bar
 git commit -m "I dit foo in bar"
 git push
 ```
-
-# TODO
-
-- Logo quand dispo
