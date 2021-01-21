@@ -2,7 +2,8 @@
 title: "Tarifs & informations"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-description : "this is a meta description"
+description : "Tarifs et informations sur les séances d'Ostéopathie, durée, déroulement, cout, etc"
+keywords: "tarifs,informations,cout,seance,durée,bilan,micro-nutrition,paiement,certifications"
 ---
 
 

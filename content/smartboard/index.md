@@ -2,7 +2,8 @@
 title: "La Smartboard"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-description : "this is a meta description"
+description : "Explications de la smartboard, ce que c'est, comment on s'en sert, son utilité, et le public visé"
+keywords: "smart,board,smartboard,usage,achat,musculation,tracking,accompagnement,protocoles,exercices,competition"
 ---
 
 #### Accompagne votre entraînement

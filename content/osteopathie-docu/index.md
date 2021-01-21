@@ -2,7 +2,8 @@
 title: "L'Osthéopathie, c'est quoi ?"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-description : "this is a meta description"
+description : "Description de l'Ostéopathie, en quoi cela consiste, à quoi ca sert, à qui cela s'adresse, et à quelle fréquence"
+keywords: "description,osteopathie,questions,réponses,faq,question,answer,craquer,qui,quoi,pourquoi,comment,quand,fréquence"
 ---
 
 <br>
