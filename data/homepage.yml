@@ -42,7 +42,7 @@ cta:
   overlayImage : "images/cta-overlay.png"
   button:
     label : "Click-RDV"
-    link : "https://www.clicrdv.com/mme-dutertre-aurelie"
+    link : "https://www.doctolib.fr/osteopathe/grenoble/aurelie-dutertre"
 
 # ######################## raw material #######################
 # material:
