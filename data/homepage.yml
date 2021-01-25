@@ -41,7 +41,7 @@ cta:
   image : "images/cta.png"
   overlayImage : "images/cta-overlay.png"
   button:
-    label : "Click-RDV"
+    label : "Doctolib"
     link : "https://www.doctolib.fr/osteopathe/grenoble/aurelie-dutertre"
 
 # ######################## raw material #######################
