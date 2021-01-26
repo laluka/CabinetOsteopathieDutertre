@@ -1,7 +1,9 @@
 <head>
   <meta charset="utf-8">
   <title>{{ .Title }}</title>
-
+  <meta property="og:title" content="{{ .Title }}" />
+  <meta property="og:description" content="{{ .Description }}" />
+  <meta property="og:image" content="{{ site.Params.logo | absURL }}" />
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="keywords" content="aurelie,dutertre,escalade,ostéopathie,sport,cabinet,soin,doctolib,alfred,vigny,grenoble,38000,massage,bien-etre,enfant,femme,sportif,douleur,santé,agréé,conventionné,alpinisme,dos,douleur,epaule,kine,ostéopath,reconnue,sciatique,urgence" />
