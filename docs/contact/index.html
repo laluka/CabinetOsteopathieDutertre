@@ -172,9 +172,12 @@
 
 <section class="section pt-0">
   <div class="container">
-    <div id="map_canvas" data-latitude=" 45.16739614361891 "
-      data-longitude=" 5.72391508737948 "
-      data-marker=" https://osteo-vigny-dutertre.fr/images/marker.png " data-marker-name="Osteopathie du sport | Aurélie Dutertre"></div>
+    <div class="map-responsive">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5626.00085642197!2d5.7223805!3d45.1668412!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478af4b905f39023%3A0xbd1b0f754d2bb1f2!2sDutertre%20Aurelie!5e0!3m2!1sfr!2sfr!4v1611695348754!5m2!1sfr!2sfr" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+    </div>
+    
+      
+      
   </div>
 </section>
 
@@ -233,7 +236,7 @@
         
         <ul class="list-inline text-center">
           
-          <li class="list-inline-item"><a target="_blank" href="https://www.instagram.com/aurelie.dutertre/?hl=fr"><i class="fab fa-instagram text-primary"></i></a></li>
+          <li class="list-inline-item"><a target="_blank" href="https://www.instagram.com/aurelie.dutertre/"><i class="fab fa-instagram text-primary"></i></a></li>
           
           <li class="list-inline-item"><a target="_blank" href="https://wa.me/qr/DQO2MFZ6HGSTI1"><i class="fab fa-whatsapp text-primary"></i></a></li>
           
@@ -262,7 +265,7 @@
 </footer>
 
 <!-- Google Map API -->
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&amp;libraries=places"></script>
+
 <!-- JS Plugins -->
 
 <script src="https://osteo-vigny-dutertre.fr/plugins/jQuery/jquery.min.js"></script>
@@ -282,43 +285,6 @@
 
 
 
-
-<script type="text/javascript">
-  (function (d, t, e, m) {
-
-    
-    window.RW_Async_Init = function () {
-
-      RW.init({
-        huid: "444334",
-        uid: "811cf0927332bf51f2e12f84608594ac",
-        source: "website",
-        options: {
-          "size": "medium",
-          "style": "oxygen",
-          "isDummy": false
-        }
-      });
-      RW.render();
-    };
-    
-    var rw, s = d.getElementsByTagName(e)[0],
-      id = "rw-js",
-      l = d.location,
-      ck = "Y" + t.getFullYear() +
-      "M" + t.getMonth() + "D" + t.getDate(),
-      p = l.protocol,
-      f = ((l.search.indexOf("DBG=") > -1) ? "" : ".min"),
-      a = ("https:" == p ? "secure." + m + "js/" : "js." + m);
-    if (d.getElementById(id)) return;
-    rw = d.createElement(e);
-    rw.id = id;
-    rw.async = true;
-    rw.type = "text/javascript";
-    rw.src = p + "//" + a + "external" + f + ".js?ck=" + ck;
-    s.parentNode.insertBefore(rw, s);
-  }(document, new Date(), "script", "rating-widget.com/"));
-</script>
 
 </body>
 </html>

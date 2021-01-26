@@ -2,20 +2,35 @@
     border: none;
     background: none;
     text-align: center;
-  }
-  
-body, .navigation {
-  /* background: linear-gradient(90deg, #94d239 0%, #ffffff 3%, #ffffff 97%, #94d239 100%); */
-  /* background: linear-gradient(90deg, #5bb61f 0%, rgba(255,255,255,1) 10%, rgba(255,255,255,1) 90%, #5bb61f 100%); */
-  background: linear-gradient(90deg, #faede2 0, #f6caa0 80%,#f5c190 100%);
-  /* background: linear-gradient(90deg, #ddc1a2 0%, #ddc1a2 1%, #ddc1a2 2%, #e08f4c 94%, #e08f4c 98%, #e08f4c 100%); */
+}
 
+body,
+.navigation {
+    /* background: linear-gradient(90deg, #94d239 0%, #ffffff 3%, #ffffff 97%, #94d239 100%); */
+    /* background: linear-gradient(90deg, #5bb61f 0%, rgba(255,255,255,1) 10%, rgba(255,255,255,1) 90%, #5bb61f 100%); */
+    background: linear-gradient(90deg, #faede2 0, #f6caa0 80%, #f5c190 100%);
+    /* background: linear-gradient(90deg, #ddc1a2 0%, #ddc1a2 1%, #ddc1a2 2%, #e08f4c 94%, #e08f4c 98%, #e08f4c 100%); */
 }
 
 .text-white {
-  font-size: 2em;
+    font-size: 2em;
 }
 
 .logo {
-  max-height: 50px;
+    max-height: 50px;
+}
+
+.map-responsive {
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    >height: 0;
+}
+
+.map-responsive iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
 }

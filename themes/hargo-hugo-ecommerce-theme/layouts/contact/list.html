@@ -49,15 +49,18 @@
 </section>
 {{ end }}
 
-{{ if site.Data.contact.map.enable }}
+<!-- {{ if site.Data.contact.map.enable }} -->
 <section class="section pt-0">
   <div class="container">
-    <div id="map_canvas" data-latitude="{{ with site.Params.mapLatitude }} {{ . }} {{ end }}"
-      data-longitude="{{ with site.Params.mapLongitude }} {{ . }} {{ end }}"
-      data-marker="{{ with site.Params.mapMarker }} {{ . | absURL }} {{ end }}" data-marker-name="{{ site.Title }}"></div>
+    <div class="map-responsive">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d5626.00085642197!2d5.7223805!3d45.1668412!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478af4b905f39023%3A0xbd1b0f754d2bb1f2!2sDutertre%20Aurelie!5e0!3m2!1sfr!2sfr!4v1611695348754!5m2!1sfr!2sfr" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+    </div>
+    <!-- <div id="map_canvas" data-latitude="{{ with site.Params.mapLatitude }} {{ . }} {{ end }}" -->
+      <!-- data-longitude="{{ with site.Params.mapLongitude }} {{ . }} {{ end }}" -->
+      <!-- data-marker="{{ with site.Params.mapMarker }} {{ . | absURL }} {{ end }}" data-marker-name="{{ site.Title }}"></div> -->
   </div>
 </section>
-{{ end }}
+<!-- {{ end }} -->
 
 {{ partial "cta.html" . }}
 
