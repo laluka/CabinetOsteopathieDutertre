@@ -35,7 +35,7 @@ Je vous invite à suivre mes publications orientées sport, santé, et bien-êtr
 
 ### Mes autres publications
 
-- [Escalade](http://www.pghm-chamonix.com/wp-content/uploads/2015/12/Article-secouristes-en-montagne1.pdf) PGHM Chamonix
+- [Escalade](https://www.pghm-chamonix.com/wp-content/uploads/2015/12/Article-secouristes-en-montagne1.pdf) PGHM Chamonix
 - [Montagne Mag](https://www.montagnes-magazine.com/mag-montagnes-magazine-416-mai-2015)
 
 

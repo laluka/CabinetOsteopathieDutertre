@@ -92,6 +92,7 @@ unsafe= true
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
+logojpg = "images/logo.jpg"
 home = "Accueil"
 # Meta data
 description = "Bienvenue au cabinet d'ostéopathie d'Aurélie Dutertre, situé à Grenoble, quartier Vigny Musset"
