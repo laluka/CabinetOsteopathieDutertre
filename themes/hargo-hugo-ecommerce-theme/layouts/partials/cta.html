@@ -1,7 +1,7 @@
 <!-- call to  action -->
 {{ with site.Data.homepage.cta }}
 <section class="py-4 bg-gradient position-relative" style="overflow: hidden; text-align: center;">
-  <img src="{{ .overlayImage | absURL }}" class="img-fluid overlay-image" alt="">
+  <img src="{{ .overlayImage | absURL }}" class="img-fluid overlay-image" alt="overlay">
   <div class="container justify-content-between" style="display: inline-flex;">
     <!-- <div class="row"> -->
       <a href="{{ site.BaseURL }}"><img src="{{ site.Params.logo | absURL }}" class="img-fluid logo"
