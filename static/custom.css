@@ -16,10 +16,6 @@ body,
     font-size: 2em;
 }
 
-.logo {
-    max-height: 50px;
-}
-
 .map-responsive {
     overflow: hidden;
     padding-bottom: 56.25%;
