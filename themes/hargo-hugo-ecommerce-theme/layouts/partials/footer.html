@@ -49,17 +49,6 @@
   </div>
 </footer>
 
-{{ "<!-- Google Map API -->" | safeHTML }}
-<!-- <script src="{{ site.Params.gmapAPI | absURL }}"></script> -->
-{{ "<!-- JS Plugins -->" | safeHTML }}
-{{ range site.Params.plugins.js}}
-<script src="{{ .link | absURL }}"></script>
-{{ end }}
-
-{{ "<!-- Main Script -->" | safeHTML }}
-{{ $script := resources.Get "js/script.js" | minify}}
-<script src="{{ $script.Permalink }}"></script>
-
 
 {{ with site.Params.googleAnalitycsID }}
 {{ "<!-- google analitycs -->" | safeHTML }}
