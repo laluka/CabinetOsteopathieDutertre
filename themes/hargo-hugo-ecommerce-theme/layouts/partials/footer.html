@@ -68,6 +68,10 @@
   ga('send', 'pageview');
 </script>
 {{ end }}
+{{ "<!-- JS Plugins -->" | safeHTML }}
+{{ range site.Params.plugins.js}}
+<script src="{{ .link | absURL }}"></script>
+{{ end }}
 
 <!-- product rating -->
 {{ if site.Params.rating.enable }}
