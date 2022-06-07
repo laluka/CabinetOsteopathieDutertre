@@ -24,8 +24,6 @@ Je vous invite à suivre mes publications orientées sport, santé, et bien-êtr
 
 ### Mes publications sur [grimper.com](grimper.com)
 
-- [Kiné Scientifique - Methodologie kinesitherapique](https://www.ks-mag.com/article/12858-ratio-flechisseurs-extenseurs-des-muscles-des-doigts-chez-les-grimpeurs-proposition-d-une-methodologie-kinesitherapique)
-- [Témoignage dans L'Incontournable de l'Autohypnose<br>La blessure du sportif, le défi du mental, p.239](https://livre.fnac.com/a16832859/Jonathan-Bel-Legroux-L-Incontournable-de-l-autohypnose)
 - [Étirement](https://www.grimper.com/kine-faut-il-vraiment-etirer-escalade)
 - [Échauffement](https://www.grimper.com/kine-faut-il-echauffer-escalade)
 - [Alimentation](https://www.grimper.com/kine-comment-bien-alimenter-escalade)
@@ -37,6 +35,8 @@ Je vous invite à suivre mes publications orientées sport, santé, et bien-êtr
 
 ### Mes autres publications
 
+- [Kiné Scientifique - Methodologie kinesitherapique](https://www.ks-mag.com/article/12858-ratio-flechisseurs-extenseurs-des-muscles-des-doigts-chez-les-grimpeurs-proposition-d-une-methodologie-kinesitherapique)
+- [Témoignage dans L'Incontournable de l'Autohypnose (livre)<br>La blessure du sportif, le défi du mental, p.239](https://livre.fnac.com/a16832859/Jonathan-Bel-Legroux-L-Incontournable-de-l-autohypnose)
 - [Escalade](https://www.pghm-chamonix.com/wp-content/uploads/2015/12/Article-secouristes-en-montagne1.pdf) PGHM Chamonix
 - [Montagne Mag](https://www.montagnes-magazine.com/mag-montagnes-magazine-416-mai-2015)
 
