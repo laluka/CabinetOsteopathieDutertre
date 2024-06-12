@@ -21,8 +21,13 @@ Je vous invite à suivre mes publications orientées sport, santé, et bien-êtr
 - [Facebook](https://www.facebook.com/Aur%C3%A9lie-Dutertre-770845799602414/)
 - [Linkedin](https://www.linkedin.com/in/aurelie-dutertre-10435128/)
 
+### Mon Livre
 
-### Mes publications sur [grimper.com](grimper.com)
+- [Blessures et traumatismes en escalade. Les prévenir, les guérir](https://www.glenat.com/solo-guides-techniques/blessures-et-traumatismes-en-escalade-9782344061367)
+
+<img src="../images/book.jpeg" alt="book cover" class="img-fluid">
+
+### Mes publications sur [grimper.com](https://grimper.com/)
 
 - [Étirement](https://www.grimper.com/kine-faut-il-vraiment-etirer-escalade)
 - [Échauffement](https://www.grimper.com/kine-faut-il-echauffer-escalade)
@@ -35,10 +40,8 @@ Je vous invite à suivre mes publications orientées sport, santé, et bien-êtr
 
 ### Mes autres publications
 
-- [Blessures et traumatismes en escalade. Les prévenir, les guérir](https://www.glenat.com/solo-guides-techniques/blessures-et-traumatismes-en-escalade-9782344061367)
 - [Kiné Scientifique - Methodologie kinesitherapique](https://www.ks-mag.com/article/12858-ratio-flechisseurs-extenseurs-des-muscles-des-doigts-chez-les-grimpeurs-proposition-d-une-methodologie-kinesitherapique)
 - [Témoignage dans L'Incontournable de l'Autohypnose (livre)<br>La blessure du sportif, le défi du mental, p.239](https://livre.fnac.com/a16832859/Jonathan-Bel-Legroux-L-Incontournable-de-l-autohypnose)
-- [Escalade](https://www.pghm-chamonix.com/wp-content/uploads/2015/12/Article-secouristes-en-montagne1.pdf) PGHM Chamonix
 - [Montagne Mag](https://www.montagnes-magazine.com/mag-montagnes-magazine-416-mai-2015)
 
 ### SmartBoard & Vertical Board
