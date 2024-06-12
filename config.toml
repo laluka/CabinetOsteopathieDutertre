@@ -104,7 +104,7 @@ mobile = "06 27 37 49 38"
 email = "aurelie.dutertre@yahoo.fr"
 location = "46 rue Alfred de Vigny, 38100 Grenoble"
 # copyright
-copyright = "&copy; 2020-2023 · [GoHugo](https://gohugo.io/) · [HargoTheme](https://github.com/themefisher/hargo-hugo-ecommerce-theme) · ❤️ · [ThinkLoveShare](https://thinkloveshare.com/)"
+copyright = "&copy; 2020-2024 · [GoHugo](https://gohugo.io/) · [HargoTheme](https://github.com/themefisher/hargo-hugo-ecommerce-theme) · ❤️ · [ThinkLoveShare](https://thinkloveshare.com/)"
 
   # Preloader
   [params.preloader]
