@@ -15,7 +15,6 @@ Anamnèse 10 min, Traitement 50 min
 
 <img src="../images/tarifs-1.jpg" alt="tarifs" class="img-fluid" style="width: 50%">
 
-
 ### Prévention des blessures - avec la [SmartBoard](/smartboard)
 
 - Bilan complet - 2 heures à 120 €
