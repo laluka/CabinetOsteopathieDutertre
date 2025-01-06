@@ -2,15 +2,13 @@
 
 https://thelaluka.github.io/CabinetOsteopathieDutertre/
 
-
-# Test locally
+## Test locally
 
 ```bash
 rm resources docs ; ./hugo serve -D -b http://localhost/
 ```
 
-
-# Publish
+## Publish
 
 ```bash
 rm resources docs ; ./hugo -b https://osteo-vigny-dutertre.fr/

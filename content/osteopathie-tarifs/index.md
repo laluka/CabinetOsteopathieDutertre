@@ -9,7 +9,7 @@ keywords: "tarifs,informations,cout,seance,durée,bilan,micro-nutrition,paiement
 
 ### Séance classique d'Ostéopathie
 
-- Séance : 1 heure à 70 €
+- Séance : 1 heure à 75 €
 
 Anamnèse 10 min, Traitement 50 min
 
