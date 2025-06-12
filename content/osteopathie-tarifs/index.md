@@ -17,8 +17,8 @@ Anamnèse 10 min, Traitement 50 min
 
 ### Prévention des blessures - avec la [SmartBoard](/smartboard)
 
-- Bilan complet - 2 heures à 120 €
-- Bilan semi-complet - 1 heure à 60 €
+- Bilan complet - 2 heures à 150 €
+- Bilan semi-complet - 1 heure à 75 €
 
 <img src="../images/tarifs-2.jpg" alt="tarifs" class="img-fluid" style="width: 70%">
 
