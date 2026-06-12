@@ -3,7 +3,7 @@ title: "Tarifs & informations"
 date: 2019-10-17T11:22:16+06:00
 draft: false
 description : "Tarifs et informations sur les séances d'Ostéopathie, durée, déroulement, cout, etc"
-keywords: "tarifs,informations,cout,seance,durée,bilan,micro-nutrition,paiement,certifications"
+keywords: "tarifs,informations,cout,seance,durée,bilan,paiement,certifications"
 ---
 
 
@@ -21,13 +21,6 @@ Anamnèse 10 min, Traitement 50 min
 - Bilan semi-complet - 1 heure à 75 €
 
 <img src="../images/tarifs-2.jpg" alt="tarifs" class="img-fluid" style="width: 70%">
-
-
-### Bilan [micro nutirition](https://www.qms-iedm.fr/protection-cellulaire)
-
-- 1 heure à 50 €
-
-<img src="../images/micronutrition.png" alt="micronutrition" class="img-fluid" style="width: 70%">
 
 ### Certifications, Agréments, Label
 

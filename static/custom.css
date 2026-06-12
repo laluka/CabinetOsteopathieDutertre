@@ -1,3 +1,27 @@
+@font-face {
+    font-family: 'Telegraf';
+    font-style: normal;
+    font-weight: 200;
+    font-display: swap;
+    src: local('Telegraf UltraLight'), url('fonts/Telegraf-UltraLight.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Telegraf';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('Telegraf'), url('fonts/Telegraf-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Telegraf';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: local('Telegraf UltraBold'), url('fonts/Telegraf-UltraBold.woff') format('woff');
+}
+
 .snipcart-summary {
     border: none;
     background: none;

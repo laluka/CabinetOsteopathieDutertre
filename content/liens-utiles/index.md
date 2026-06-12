@@ -16,7 +16,7 @@ a {
 
 Je vous invite à suivre mes publications orientées sport, santé, et bien-être sur :
 
-- [Instagram](https://www.instagram.com/aurelie.dutertre/?hl=fr)
+- [Instagram](https://www.instagram.com/aurelie.dutertre_kineosteo/)
 - [WhatsApp](https://wa.me/qr/DQO2MFZ6HGSTI1)
 - [Facebook](https://www.facebook.com/Aur%C3%A9lie-Dutertre-770845799602414/)
 - [Linkedin](https://www.linkedin.com/in/aurelie-dutertre-10435128/)
@@ -37,10 +37,14 @@ Je vous invite à suivre mes publications orientées sport, santé, et bien-êtr
 - [Comment bien travailler ses abdominaux en escalade](https://www.grimper.com/kine-comment-bien-travailler-abdos)
 - [L'auto-massage](https://www.grimper.com/kine-automassage-escalade)
 - [Prendre soin de ses pieds](https://www.grimper.com/kine-prendre-soin-pieds-mieux-grimper)
+- [Entraînement et prévention des doigts](https://www.grimper.com/entrainement-entrainement-prevention-doigts)
+- [Grimper Magazine N°247 - Septembre 2025](https://www.grimper.com/mag-grimper-247)
 
 ### Mes autres publications
 
 - [Kiné Scientifique - Methodologie kinesitherapique](https://www.ks-mag.com/article/12858-ratio-flechisseurs-extenseurs-des-muscles-des-doigts-chez-les-grimpeurs-proposition-d-une-methodologie-kinesitherapique)
+- [Mes articles sur Kinésithérapie Scientifique](https://www.ks-mag.com/author/aureliedutertre/)
+- [Mes articles sur Alpine Mag](https://alpinemag.fr/author/aureliedutertre/)
 - [Témoignage dans L'Incontournable de l'Autohypnose (livre)<br>La blessure du sportif, le défi du mental, p.239](https://livre.fnac.com/a16832859/Jonathan-Bel-Legroux-L-Incontournable-de-l-autohypnose)
 - [Montagne Mag](https://www.montagnes-magazine.com/mag-montagnes-magazine-416-mai-2015)
 
