@@ -28,14 +28,6 @@
     text-align: center;
 }
 
-body,
-.navigation {
-    /* background: linear-gradient(90deg, #94d239 0%, #ffffff 3%, #ffffff 97%, #94d239 100%); */
-    /* background: linear-gradient(90deg, #5bb61f 0%, rgba(255,255,255,1) 10%, rgba(255,255,255,1) 90%, #5bb61f 100%); */
-    background: linear-gradient(90deg, #faede2 0, #f6caa0 80%, #f5c190 100%);
-    /* background: linear-gradient(90deg, #ddc1a2 0%, #ddc1a2 1%, #ddc1a2 2%, #e08f4c 94%, #e08f4c 98%, #e08f4c 100%); */
-}
-
 .text-white {
     font-size: 2em;
 }
@@ -44,7 +36,7 @@ body,
     overflow: hidden;
     padding-bottom: 56.25%;
     position: relative;
-    >height: 0;
+    height: 0;
 }
 
 .map-responsive iframe {
@@ -53,4 +45,338 @@ body,
     height: 100%;
     width: 100%;
     position: absolute;
+}
+
+/* ============================================================
+   STYLE DRAFT 2026 — local preview only, not published yet.
+   Zen rework: layered warm background, terracotta accent,
+   Telegraf UltraBold headings, balanced accueil layout.
+   ============================================================ */
+
+:root {
+    --accent: #C2603E;
+    --accent-dark: #9E4A2B;
+    --accent-soft: rgba(194, 96, 62, 0.10);
+    --ink: #2A231E;
+    --ink-soft: #4A3F36;
+    --paper: #FBF6EF;
+}
+
+/* ---------- background: calm paper + two soft fixed halos ---------- */
+
+html {
+    background: var(--paper);
+}
+
+body {
+    background: transparent;
+    color: var(--ink-soft);
+}
+
+body::before,
+body::after {
+    content: "";
+    position: fixed;
+    border-radius: 50%;
+    filter: blur(70px);
+    pointer-events: none;
+    z-index: -1;
+}
+
+body::before {
+    width: 55vw;
+    height: 55vw;
+    top: -22vw;
+    right: -18vw;
+    background: radial-gradient(circle, rgba(244, 196, 150, 0.6), transparent 70%);
+}
+
+body::after {
+    width: 48vw;
+    height: 48vw;
+    bottom: -20vw;
+    left: -16vw;
+    background: radial-gradient(circle, rgba(194, 96, 62, 0.16), transparent 70%);
+}
+
+/* navigation floats on the paper */
+.navigation {
+    background: rgba(251, 246, 239, 0.85);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-bottom: 1px solid rgba(194, 96, 62, 0.10);
+}
+
+/* ---------- typography ---------- */
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 800;
+    letter-spacing: -0.015em;
+    color: var(--ink);
+}
+
+h1 { font-size: clamp(1.9rem, 3.5vw + 0.6rem, 3rem); }
+h2 { font-size: clamp(1.5rem, 2.2vw + 0.5rem, 2.1rem); }
+
+p, li {
+    line-height: 1.75;
+}
+
+.navigation .nav-link {
+    font-weight: 800;
+    letter-spacing: 0.01em;
+}
+
+/* content links */
+.content a,
+article a,
+section li a,
+section p a {
+    color: var(--accent);
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+}
+
+.content a:hover,
+article a:hover,
+section li a:hover,
+section p a:hover {
+    color: var(--accent-dark);
+}
+
+/* photos become soft cards */
+.img-fluid:not(.logo):not(.overlay-image) {
+    border-radius: 16px;
+    box-shadow: 0 14px 36px rgba(90, 50, 20, 0.14);
+}
+
+/* CTA Doctolib pill (overrides the inline green in cta.html) */
+.badge.btn.btn-light {
+    color: var(--accent) !important;
+    font-weight: 800;
+    border-radius: 999px;
+    padding: 0.6em 1.5em;
+}
+
+/* ---------- accueil : hero ---------- */
+
+.accueil-hero {
+    padding: 110px 0 70px;
+}
+
+.accueil-hero .eyebrow {
+    font-size: 0.85rem;
+    font-weight: 800;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 1.2rem;
+}
+
+.accueil-hero .display-title {
+    font-size: clamp(2.4rem, 5vw + 0.5rem, 4rem);
+    line-height: 1.08;
+    max-width: 18em;
+    margin: 0 auto;
+}
+
+.zen-divider {
+    display: flex;
+    justify-content: center;
+    margin: 1.6rem 0;
+}
+
+.zen-divider span {
+    width: 56px;
+    height: 4px;
+    border-radius: 999px;
+    background: linear-gradient(90deg, var(--accent), #E0A06C);
+}
+
+.accueil-hero .lead-text {
+    font-size: clamp(1.05rem, 1vw + 0.8rem, 1.3rem);
+    line-height: 1.7;
+    max-width: 38em;
+    margin: 0 auto 2.2rem;
+    color: var(--ink-soft);
+}
+
+.hero-actions {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.8rem;
+    flex-wrap: wrap;
+}
+
+.btn-rdv {
+    display: inline-block;
+    background: var(--accent);
+    color: #fff !important;
+    font-weight: 800;
+    padding: 0.85em 2em;
+    border-radius: 999px;
+    box-shadow: 0 10px 24px rgba(194, 96, 62, 0.35);
+    transition: 0.2s ease;
+}
+
+.btn-rdv:hover {
+    background: var(--accent-dark);
+    transform: translateY(-2px);
+    color: #fff;
+}
+
+.link-quiet {
+    color: var(--ink);
+    font-weight: 800;
+    border-bottom: 2px solid var(--accent-soft);
+    padding-bottom: 2px;
+}
+
+.link-quiet:hover {
+    color: var(--accent);
+    border-bottom-color: var(--accent);
+}
+
+/* ---------- accueil : story ---------- */
+
+.accueil-story {
+    padding: 50px 0 30px;
+}
+
+.accueil-photo .photo-frame {
+    position: relative;
+    position: sticky;
+    top: 110px;
+}
+
+.accueil-photo .photo-frame::before {
+    content: "";
+    position: absolute;
+    inset: -18px -18px 18px 18px;
+    border-radius: 20px;
+    background: var(--accent-soft);
+    z-index: -1;
+}
+
+.accueil-photo img {
+    width: 100%;
+    aspect-ratio: 4 / 5;
+    object-fit: cover;
+}
+
+.accueil-text h2 {
+    margin-bottom: 1.4rem;
+}
+
+.accueil-text p {
+    margin-bottom: 1.2rem;
+}
+
+/* ---------- accueil : highlights ---------- */
+
+.accueil-highlights {
+    padding: 50px 0 30px;
+}
+
+.zen-card {
+    background: rgba(255, 255, 255, 0.65);
+    border: 1px solid rgba(194, 96, 62, 0.10);
+    border-radius: 18px;
+    padding: 2rem 1.6rem;
+    margin-bottom: 1.5rem;
+    width: 100%;
+    transition: 0.25s ease;
+}
+
+.zen-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 16px 36px rgba(90, 50, 20, 0.12);
+}
+
+.zen-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-size: 1.4rem;
+    margin-bottom: 1.1rem;
+}
+
+.zen-card h3 {
+    font-size: 1.15rem;
+    margin-bottom: 0.7rem;
+}
+
+.zen-card p {
+    margin-bottom: 0;
+    font-size: 0.97rem;
+}
+
+/* ---------- accueil : closing ---------- */
+
+.accueil-closing {
+    padding: 40px 0 90px;
+}
+
+.accueil-closing .closing-quote {
+    font-size: clamp(1.15rem, 1.4vw + 0.8rem, 1.5rem);
+    font-weight: 800;
+    color: var(--ink);
+    max-width: 28em;
+    margin: 0 auto 1rem;
+    line-height: 1.5;
+}
+
+.accueil-closing .closing-note {
+    color: var(--ink-soft);
+    max-width: 40em;
+    margin: 0 auto;
+}
+
+/* ---------- mid-size & small devices ---------- */
+
+@media (max-width: 991px) {
+    .accueil-hero {
+        padding: 70px 0 50px;
+    }
+
+    /* photo becomes a wide, shallow banner above the text */
+    .accueil-photo .photo-frame {
+        position: static;
+        margin-bottom: 2.2rem;
+    }
+
+    .accueil-photo .photo-frame::before {
+        display: none;
+    }
+
+    .accueil-photo img {
+        aspect-ratio: 16 / 9;
+    }
+
+    .section {
+        padding: 60px 0;
+    }
+}
+
+/* below lg, cards stack as horizontal icon + text rows */
+@media (max-width: 991px) {
+    .zen-card {
+        display: flex;
+        align-items: flex-start;
+        gap: 1.3rem;
+        padding: 1.5rem 1.4rem;
+        margin-bottom: 1.1rem;
+    }
+
+    .zen-icon {
+        flex-shrink: 0;
+        margin-bottom: 0;
+    }
 }

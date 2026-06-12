@@ -6,12 +6,6 @@ description : "Liste des liens utiles, réseaux sociaux, publications, partenair
 keywords: "liens,utiles,réseaux,sociaux,documentation,articles,formations,publications,smartboard"
 ---
 
-<style>
-a {
-    color: #000000;
-}
-</style>
-
 ### Réseaux sociaux
 
 Je vous invite à suivre mes publications orientées sport, santé, et bien-être sur :
@@ -25,7 +19,7 @@ Je vous invite à suivre mes publications orientées sport, santé, et bien-êtr
 
 - [Blessures et traumatismes en escalade. Les prévenir, les guérir](https://www.glenat.com/solo-guides-techniques/blessures-et-traumatismes-en-escalade-9782344061367)
 
-<img src="../images/book.jpeg" alt="book cover" class="img-fluid">
+<img src="../images/book.jpeg" alt="Couverture du livre Blessures et traumatismes en escalade, Aurélie Dutertre, éditions Glénat" class="img-fluid">
 
 ### Mes publications sur [grimper.com](https://grimper.com/)
 

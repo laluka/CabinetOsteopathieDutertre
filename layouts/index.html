@@ -1,0 +1,77 @@
+{{ define "main" }}
+
+<!-- accueil : hero -->
+{{ if site.Data.homepage.about.enable }}
+{{ with site.Data.homepage.about }}
+<section class="accueil-hero">
+  <div class="container text-center">
+    <p class="eyebrow">{{ .eyebrow }}</p>
+    <h1 class="display-title">{{ .title | markdownify }}</h1>
+    <div class="zen-divider" aria-hidden="true"><span></span></div>
+    <p class="lead-text">{{ .lead | markdownify }}</p>
+    <div class="hero-actions">
+      {{ with site.Data.homepage.cta.button }}
+      <a class="btn-rdv" target="_blank" rel="noopener" href="{{ .link | absURL }}">Prendre rendez-vous</a>
+      {{ end }}
+      <a class="link-quiet" href="{{ "osteopathie-docu" | absURL }}">Découvrir l’ostéopathie →</a>
+    </div>
+  </div>
+</section>
+
+<!-- accueil : story (photo + parcours) -->
+<section class="accueil-story">
+  <div class="container">
+    <div class="row justify-content-between">
+      <div class="col-lg-5 accueil-photo">
+        <div class="photo-frame">
+          <img class="img-fluid" src="{{ .image | absURL }}" alt="Le cabinet d’ostéopathie">
+        </div>
+      </div>
+      <div class="col-lg-6 accueil-text">
+        <h2>{{ .storyTitle }}</h2>
+        {{ range .story }}
+        <p>{{ . | markdownify }}</p>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- accueil : highlights -->
+<section class="accueil-highlights">
+  <div class="container">
+    <div class="row">
+      {{ range .highlights }}
+      <div class="col-lg-4 d-flex">
+        <div class="zen-card">
+          <span class="zen-icon"><i class="{{ .icon }}"></i></span>
+          <div class="zen-body">
+            <h3>{{ .title }}</h3>
+            <p>{{ .text | markdownify }}</p>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+<!-- accueil : engagement -->
+{{ with .closing }}
+<section class="accueil-closing text-center">
+  <div class="container">
+    <p class="closing-quote">« {{ .quote }} »</p>
+    <p class="closing-note">{{ .note }}</p>
+  </div>
+</section>
+{{ end }}
+
+{{ end }}
+{{ end }}
+<!-- /accueil -->
+
+{{ if site.Data.homepage.cta.enable }}
+{{ partial "cta.html" . }}
+{{ end }}
+
+{{ end }}

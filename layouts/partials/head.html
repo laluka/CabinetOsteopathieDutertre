@@ -1,0 +1,64 @@
+<head>
+    <meta charset="utf-8">
+    {{- $title := .Title }}
+    {{- if not .IsHome }}{{ $title = printf "%s | %s" .Title site.Title }}{{ end }}
+    <title>{{ $title }}</title>
+    {{ "<!-- SEO -->" | safeHTML }}
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
+    {{ with site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
+    {{ if .Keywords }}<meta name="keywords" content="{{ delimit .Keywords "," }}">
+    {{ else }}<meta name="keywords" content="aurelie,dutertre,escalade,ostéopathie,sport,cabinet,soin,doctolib,alfred,vigny,grenoble,38000,massage,bien-etre,enfant,femme,sportif,douleur,santé,agréé,conventionné,alpinisme,dos,douleur,epaule,kine,ostéopathe,reconnue,sciatique,urgence">{{ end }}
+    <link rel="canonical" href="{{ .Permalink }}">
+    {{ "<!-- Open Graph / Twitter -->" | safeHTML }}
+    <meta property="og:title" content="{{ $title }}">
+    <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
+    <meta property="og:image" content="{{ site.Params.logojpg | absURL }}">
+    <meta property="og:url" content="{{ .Permalink }}">
+    <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
+    <meta property="og:site_name" content="{{ site.Title }}">
+    <meta property="og:locale" content="fr_FR">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ $title }}">
+    <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
+    {{ "<!-- structured data : local business -->" | safeHTML }}
+    {{ if .IsHome }}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "MedicalBusiness",
+      "name": "Cabinet d'ostéopathie Aurélie Dutertre",
+      "description": {{ site.Params.description }},
+      "url": {{ site.BaseURL }},
+      "image": {{ site.Params.logojpg | absURL }},
+      "telephone": "+33627374938",
+      "email": {{ site.Params.email }},
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "46 rue Alfred de Vigny",
+        "postalCode": "38100",
+        "addressLocality": "Grenoble",
+        "addressCountry": "FR"
+      },
+      "openingHours": ["Mo 07:00-20:00", "We 07:00-20:00", "Fr 07:00-20:00"]
+    }
+    </script>
+    {{ end }}
+    {{ "<!-- mobile responsive meta -->" | safeHTML }}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {{ hugo.Generator }}
+
+    {{ "<!-- plugins -->" | safeHTML }}
+    {{ range site.Params.plugins.css }}
+    <link rel="stylesheet" href="{{ .link | absURL }}">
+    {{ end }}
+
+    {{ "<!-- Main Stylesheet -->" | safeHTML }}
+    {{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}
+    <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
+    <link rel="stylesheet" href="{{ `custom.css` | absURL }}" media="screen">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" media="screen">
+    {{ "<!--Favicon-->" | safeHTML }}
+    <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
+    <link rel="icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
+
+  </head>

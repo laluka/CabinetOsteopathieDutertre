@@ -6,4 +6,4 @@ description : "Page de contact permettant de contacter et localiser le cabiner d
 keywords: "contact,mail,email,numéro,téléphone,maps,carte,e-mail,mel,horaire,adresse,réseaux,sociaux,rdv"
 ---
 
-<img src="../images/contact.jpg" alt="tarifs" class="img-fluid">
+<img src="../images/contact.jpg" alt="Le cabinet d’ostéopathie d’Aurélie Dutertre à Grenoble" class="img-fluid">
